@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-19 02:29:22
+# UPDATED: 2022-08-20 02:32:34
 # DOMAIN: 88
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66199
+# DOMAIN-SUFFIX: 66204
 # IP-CIDR: 10
 # IP-CIDR6: 4
 # USER-AGENT: 31
-# TOTAL: 66342
+# TOTAL: 66347
 265.com
 2mdn.net
 adservice.google.com
@@ -15035,6 +15035,7 @@ www4-static.gog-statics.com
 .chongwuxiang.com
 .chongya.com
 .chongyacdn.com
+.chongyejia.com
 .chongyitang.org
 .chongzhi.com
 .chonka.com
@@ -22842,6 +22843,7 @@ www4-static.gog-statics.com
 .fodian.net
 .fodlab.com
 .fodoco.com
+.fofa.info
 .foguanghui.org
 .fokan88.com
 .folieyun.com
@@ -23722,6 +23724,7 @@ www4-static.gog-statics.com
 .gara.cc
 .garden-aquarium.com
 .gardencn.com
+.garmin.com
 .garmuri.com
 .garnoc.com
 .garphy.com
@@ -31359,6 +31362,7 @@ www4-static.gog-statics.com
 .iyiyun.com
 .iyocloud.com
 .iyong.com
+.iyongpdf.com
 .iyooread.com
 .iyoowi.com
 .iyoucai.com
@@ -37447,6 +37451,7 @@ www4-static.gog-statics.com
 .lpetl.com
 .lpllol.com
 .lply.net
+.lppoll.com
 .lppz.com
 .lpq1688.com
 .lprcx.com
@@ -40712,6 +40717,7 @@ www4-static.gog-statics.com
 .n3293.com
 .n3ko.co
 .n3sd.com
+.n4115.com
 .n423.com
 .n459.com
 .n5878.com
@@ -45053,7 +45059,6 @@ www4-static.gog-statics.com
 .qjrc.com
 .qjren.com
 .qjsb88.com
-.qjshe.com
 .qjsmartech.com
 .qjtrip.com
 .qjwhzs.com

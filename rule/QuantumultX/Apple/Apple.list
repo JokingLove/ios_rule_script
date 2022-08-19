@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-19 10:31:13
+# UPDATED: 2022-08-20 02:31:59
 # HOST: 64
 # HOST-KEYWORD: 6
 # HOST-SUFFIX: 456
@@ -438,6 +438,7 @@ HOST-SUFFIX,apple.comscoreresearch.com,Apple
 HOST-SUFFIX,appleenews.com,Apple
 HOST-SUFFIX,applemusic.berlin,Apple
 HOST-SUFFIX,applemusic.co,Apple
+HOST-SUFFIX,applemusic.com,Apple
 HOST-SUFFIX,applemusic.com.au,Apple
 HOST-SUFFIX,applemusic.hamburg,Apple
 HOST-SUFFIX,applemusic.wang,Apple
@@ -470,7 +471,6 @@ HOST-SUFFIX,iphoto.se,Apple
 HOST-SUFFIX,iphoto.wang,Apple
 HOST-SUFFIX,musickit.net,Apple
 HOST-SUFFIX,wwwapplemusic.com,Apple
-HOST-SUFFIX,applemusic.com,Apple
 HOST-SUFFIX,apple.news,Apple
 HOST-SUFFIX,apple-dns.net,Apple
 HOST-SUFFIX,appsto.re,Apple

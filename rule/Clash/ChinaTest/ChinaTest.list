@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-19 02:29:24
+# UPDATED: 2022-08-20 02:32:36
 # DOMAIN: 88
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66199
+# DOMAIN-SUFFIX: 66204
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66311
+# TOTAL: 66316
 DOMAIN,analytics.strava.com
 DOMAIN,api.steampowered.com,DIRECT
 DOMAIN,blzddist1-a.akamaihd.net
@@ -284,6 +284,7 @@ DOMAIN-SUFFIX,futu5.com,DIRECT
 DOMAIN-SUFFIX,futunn.com,DIRECT
 DOMAIN-SUFFIX,g-cores.com
 DOMAIN-SUFFIX,gandi.net
+DOMAIN-SUFFIX,garmin.com
 DOMAIN-SUFFIX,gazellegames.net
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,geilicdn.com,DIRECT
@@ -15480,6 +15481,7 @@ DOMAIN-SUFFIX,chongwujiaoyi.com
 DOMAIN-SUFFIX,chongwuxiang.com
 DOMAIN-SUFFIX,chongya.com
 DOMAIN-SUFFIX,chongyacdn.com
+DOMAIN-SUFFIX,chongyejia.com
 DOMAIN-SUFFIX,chongyitang.org
 DOMAIN-SUFFIX,chongzhi.com
 DOMAIN-SUFFIX,chonka.com
@@ -23217,6 +23219,7 @@ DOMAIN-SUFFIX,fodang.org
 DOMAIN-SUFFIX,fodian.net
 DOMAIN-SUFFIX,fodlab.com
 DOMAIN-SUFFIX,fodoco.com
+DOMAIN-SUFFIX,fofa.info
 DOMAIN-SUFFIX,foguanghui.org
 DOMAIN-SUFFIX,fokan88.com
 DOMAIN-SUFFIX,folieyun.com
@@ -31668,6 +31671,7 @@ DOMAIN-SUFFIX,iyishengyuan.com
 DOMAIN-SUFFIX,iyiyun.com
 DOMAIN-SUFFIX,iyocloud.com
 DOMAIN-SUFFIX,iyong.com
+DOMAIN-SUFFIX,iyongpdf.com
 DOMAIN-SUFFIX,iyooread.com
 DOMAIN-SUFFIX,iyoowi.com
 DOMAIN-SUFFIX,iyoucai.com
@@ -37717,6 +37721,7 @@ DOMAIN-SUFFIX,lpcheng.com
 DOMAIN-SUFFIX,lpetl.com
 DOMAIN-SUFFIX,lpllol.com
 DOMAIN-SUFFIX,lply.net
+DOMAIN-SUFFIX,lppoll.com
 DOMAIN-SUFFIX,lppz.com
 DOMAIN-SUFFIX,lpq1688.com
 DOMAIN-SUFFIX,lprcx.com
@@ -40934,6 +40939,7 @@ DOMAIN-SUFFIX,n21.cc
 DOMAIN-SUFFIX,n3293.com
 DOMAIN-SUFFIX,n3ko.co
 DOMAIN-SUFFIX,n3sd.com
+DOMAIN-SUFFIX,n4115.com
 DOMAIN-SUFFIX,n423.com
 DOMAIN-SUFFIX,n459.com
 DOMAIN-SUFFIX,n5878.com
@@ -45213,7 +45219,6 @@ DOMAIN-SUFFIX,qjmotor.com
 DOMAIN-SUFFIX,qjrc.com
 DOMAIN-SUFFIX,qjren.com
 DOMAIN-SUFFIX,qjsb88.com
-DOMAIN-SUFFIX,qjshe.com
 DOMAIN-SUFFIX,qjsmartech.com
 DOMAIN-SUFFIX,qjtrip.com
 DOMAIN-SUFFIX,qjwhzs.com

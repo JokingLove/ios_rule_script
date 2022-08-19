@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-19 02:29:22
+# UPDATED: 2022-08-20 02:32:35
 # HOST: 88
 # HOST-KEYWORD: 10
-# HOST-SUFFIX: 66199
+# HOST-SUFFIX: 66204
 # IP-CIDR: 10
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 66342
+# TOTAL: 66347
 HOST,analytics.strava.com,ChinaTest
 HOST,api.steampowered.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
@@ -285,6 +285,7 @@ HOST-SUFFIX,futu5.com,ChinaTest
 HOST-SUFFIX,futunn.com,ChinaTest
 HOST-SUFFIX,g-cores.com,ChinaTest
 HOST-SUFFIX,gandi.net,ChinaTest
+HOST-SUFFIX,garmin.com,ChinaTest
 HOST-SUFFIX,gazellegames.net,ChinaTest
 HOST-SUFFIX,geetest.com,ChinaTest
 HOST-SUFFIX,geilicdn.com,ChinaTest
@@ -15481,6 +15482,7 @@ HOST-SUFFIX,chongwujiaoyi.com,ChinaTest
 HOST-SUFFIX,chongwuxiang.com,ChinaTest
 HOST-SUFFIX,chongya.com,ChinaTest
 HOST-SUFFIX,chongyacdn.com,ChinaTest
+HOST-SUFFIX,chongyejia.com,ChinaTest
 HOST-SUFFIX,chongyitang.org,ChinaTest
 HOST-SUFFIX,chongzhi.com,ChinaTest
 HOST-SUFFIX,chonka.com,ChinaTest
@@ -23218,6 +23220,7 @@ HOST-SUFFIX,fodang.org,ChinaTest
 HOST-SUFFIX,fodian.net,ChinaTest
 HOST-SUFFIX,fodlab.com,ChinaTest
 HOST-SUFFIX,fodoco.com,ChinaTest
+HOST-SUFFIX,fofa.info,ChinaTest
 HOST-SUFFIX,foguanghui.org,ChinaTest
 HOST-SUFFIX,fokan88.com,ChinaTest
 HOST-SUFFIX,folieyun.com,ChinaTest
@@ -31669,6 +31672,7 @@ HOST-SUFFIX,iyishengyuan.com,ChinaTest
 HOST-SUFFIX,iyiyun.com,ChinaTest
 HOST-SUFFIX,iyocloud.com,ChinaTest
 HOST-SUFFIX,iyong.com,ChinaTest
+HOST-SUFFIX,iyongpdf.com,ChinaTest
 HOST-SUFFIX,iyooread.com,ChinaTest
 HOST-SUFFIX,iyoowi.com,ChinaTest
 HOST-SUFFIX,iyoucai.com,ChinaTest
@@ -37718,6 +37722,7 @@ HOST-SUFFIX,lpcheng.com,ChinaTest
 HOST-SUFFIX,lpetl.com,ChinaTest
 HOST-SUFFIX,lpllol.com,ChinaTest
 HOST-SUFFIX,lply.net,ChinaTest
+HOST-SUFFIX,lppoll.com,ChinaTest
 HOST-SUFFIX,lppz.com,ChinaTest
 HOST-SUFFIX,lpq1688.com,ChinaTest
 HOST-SUFFIX,lprcx.com,ChinaTest
@@ -40935,6 +40940,7 @@ HOST-SUFFIX,n21.cc,ChinaTest
 HOST-SUFFIX,n3293.com,ChinaTest
 HOST-SUFFIX,n3ko.co,ChinaTest
 HOST-SUFFIX,n3sd.com,ChinaTest
+HOST-SUFFIX,n4115.com,ChinaTest
 HOST-SUFFIX,n423.com,ChinaTest
 HOST-SUFFIX,n459.com,ChinaTest
 HOST-SUFFIX,n5878.com,ChinaTest
@@ -45214,7 +45220,6 @@ HOST-SUFFIX,qjmotor.com,ChinaTest
 HOST-SUFFIX,qjrc.com,ChinaTest
 HOST-SUFFIX,qjren.com,ChinaTest
 HOST-SUFFIX,qjsb88.com,ChinaTest
-HOST-SUFFIX,qjshe.com,ChinaTest
 HOST-SUFFIX,qjsmartech.com,ChinaTest
 HOST-SUFFIX,qjtrip.com,ChinaTest
 HOST-SUFFIX,qjwhzs.com,ChinaTest

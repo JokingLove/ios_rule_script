@@ -1,13 +1,13 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-19 10:32:42
+# UPDATED: 2022-08-20 02:33:31
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69033
-# IP-CIDR: 10506
+# DOMAIN-SUFFIX: 69038
+# IP-CIDR: 10550
 # USER-AGENT: 65
-# TOTAL: 79702
+# TOTAL: 79751
 265.com
 adservice.google.com
 analytics.strava.com
@@ -15548,6 +15548,7 @@ www4-static.gog-statics.com
 .chongwuxiang.com
 .chongya.com
 .chongyacdn.com
+.chongyejia.com
 .chongyitang.org
 .chongzhi.com
 .chonka.com
@@ -23795,6 +23796,7 @@ www4-static.gog-statics.com
 .fodian.net
 .fodlab.com
 .fodoco.com
+.fofa.info
 .foguanghui.org
 .fokan88.com
 .folieyun.com
@@ -24690,6 +24692,7 @@ www4-static.gog-statics.com
 .gara.cc
 .garden-aquarium.com
 .gardencn.com
+.garmin.com
 .garmuri.com
 .garnoc.com
 .garphy.com
@@ -32611,6 +32614,7 @@ www4-static.gog-statics.com
 .iyocloud.com
 .iyoimar.com
 .iyong.com
+.iyongpdf.com
 .iyooread.com
 .iyoucai.com
 .iyoudui.com
@@ -38932,6 +38936,7 @@ www4-static.gog-statics.com
 .lpetl.com
 .lpllol.com
 .lply.net
+.lppoll.com
 .lppz.com
 .lpq1688.com
 .lprcx.com
@@ -42363,6 +42368,7 @@ www4-static.gog-statics.com
 .n3293.com
 .n3ko.co
 .n3sd.com
+.n4115.com
 .n423.com
 .n459.com
 .n5878.com
@@ -46959,7 +46965,6 @@ www4-static.gog-statics.com
 .qjrc.com
 .qjren.com
 .qjsb88.com
-.qjshe.com
 .qjsmartech.com
 .qjtrip.com
 .qjwhzs.com

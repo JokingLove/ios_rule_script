@@ -1,8 +1,8 @@
 ! Title: Advertising
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-08-19 10:30:25
-! Total: 88099
+! Updated: 2022-08-20 02:31:12
+! Total: 88130
 
 
 ||0.code.cotsta.ru^
@@ -931,6 +931,7 @@
 ||5glyqw.com^
 ||5gustis.xyz^
 ||5h3oyhv838.com^
+||5hte21mz.com^
 ||5htftu.com^
 ||5ibanma.com^
 ||5idoy8p7.live^
@@ -1053,6 +1054,7 @@
 ||666758.xyz^
 ||666759.xyz^
 ||666762.xyz^
+||666763.xyz^
 ||6667778882021.site^
 ||666video.asia^
 ||668kbet.com^
@@ -5255,6 +5257,7 @@
 ||airconditionblown.com^
 ||airconditiondescendent.com^
 ||aircraftmighty.com^
+||airdempu.com^
 ||airdropemboil.com^
 ||airlead.ru^
 ||airrrxggfafnbl.xyz^
@@ -5603,7 +5606,6 @@
 ||am-display.com^
 ||am-investor.ru^
 ||am-schedule.ru^
-||am.i.mullvad.net^
 ||am.streamdj.ru^
 ||am.titsx.com^
 ||am10.ru^
@@ -5845,6 +5847,7 @@
 ||analytics.ooyala.com^
 ||analytics.ouc.ac.cy^
 ||analytics.pancake.vn^
+||analytics.partcommunity.com^
 ||analytics.phando.com^
 ||analytics.picsart.com^
 ||analytics.pinterest.com^
@@ -7103,6 +7106,7 @@
 ||axpvy.cn^
 ||axqpn.cn^
 ||axt.cool^
+||axvnsla.top^
 ||axwndephseraj.com^
 ||axzsd.pro^
 ||ay.delivery^
@@ -8364,6 +8368,7 @@
 ||bhj691.com^
 ||bhj699.com^
 ||bhlcimjcpvkxn.com^
+||bhny.asia^
 ||bhs4.com^
 ||bhujiwwb.top^
 ||bhyblanket.cn^
@@ -10981,6 +10986,7 @@
 ||clairiose.pro^
 ||clamskeined.com^
 ||clankallegation.com^
+||clanker-events.squarespace.com^
 ||claria.com^
 ||clarifysuper.com^
 ||claring-loccelkin.com^
@@ -12729,6 +12735,7 @@
 ||cusecwhitten.com^
 ||cushionpig.com^
 ||cusok.ru^
+||cusptumbak.com^
 ||cussixia.de^
 ||custodyabsolutiondrawback.com^
 ||custom.plausible.io^
@@ -13438,6 +13445,7 @@
 ||d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com^
 ||d7dc491d44.com^
 ||d7dza8s7j2am6.cloudfront.net^
+||d7y5grtl.site^
 ||d80.xyz^
 ||d81mfvml8p5ml.cloudfront.net^
 ||d824d7f5cbcb0e00.com^
@@ -16462,10 +16470,13 @@
 ||evenescapenavy.com^
 ||event-action.popinfo.jp^
 ||event-collector.analytics.onedio.com^
+||event-collector.prd.data.s.joyn.de^
 ||event-search.jorte.com^
 ||event.chitai-gorod.ru^
+||event.collector.scopely.io^
 ||event.condenastdigital.com^
 ||event.demirorenteknoloji.com^
+||event.filum.ai^
 ||event.headlines.pw^
 ||event.impression-neo.naver.com^
 ||event.scimo.io^
@@ -20766,6 +20777,7 @@
 ||hollekeamboina.com^
 ||hollercatastrophe.co^
 ||hollercatastrophe.com^
+||hollerscanelos.com^
 ||holm.ru^
 ||holptimawa.com^
 ||holydelicatessen.com^
@@ -22599,11 +22611,13 @@
 ||iubzka.online^
 ||iulftx.com^
 ||iuliglsh.space^
+||iumnxwvh.ink^
 ||iupgxu.com^
 ||iupqelechcmj.com^
 ||iusnajah.cn^
 ||iutjyyujuqa.com^
 ||iuwzdf.com^
+||iuyuwh.cn^
 ||ivanie.com^
 ||ivcbrasil.org.br^
 ||ivepdiwslclulq.com^
@@ -23971,6 +23985,7 @@
 ||kjaay.com^
 ||kjbipwznkbtybs.com^
 ||kjbyuguv12.com^
+||kjcnve.xyz^
 ||kjhzwvq.cn^
 ||kjjzx.cn^
 ||kjkhgtwft.com^
@@ -26292,6 +26307,7 @@
 ||ma.wp.pl^
 ||ma.zoho.eu^
 ||ma2gs3wne3gfej70osium.com^
+||ma3s.top^
 ||ma716.cn^
 ||maaijun.top^
 ||maalabaala.com^
@@ -27203,6 +27219,7 @@
 ||merylaural.info^
 ||merzostueru2hu8jr09.com^
 ||mes-bon-plans.fr^
+||meshagreeable.com^
 ||meshare.site^
 ||meshlucky.com^
 ||meshpetrols.com^
@@ -27399,6 +27416,7 @@
 ||miaorentang.xyz^
 ||miaoyuan.work^
 ||miarroba.info^
+||miatip.cn^
 ||mibebu.com^
 ||mibet.com^
 ||mibet.mobi^
@@ -29336,6 +29354,7 @@
 ||ningme.ru^
 ||ningmengshenhuo.com^
 ||ningseriencess.pics^
+||ninja.data.olxcdn.com^
 ||ninja.onap.io^
 ||ninjacat.io^
 ||ninkorant.online^
@@ -29554,6 +29573,7 @@
 ||notification.best^
 ||notificationsacademy.com^
 ||notifpush.com^
+||notifstar.com^
 ||notify-bugs-fra1.rtl.de^
 ||notify-guru.com^
 ||notify-master.net^
@@ -30221,6 +30241,7 @@
 ||ogaqgazu.com^
 ||ogbwqq.gkwtk.xyz^
 ||ogclick.com^
+||ogcyshr.cn^
 ||ogercron.com^
 ||ogeri.ru^
 ||oggifinogi.com^
@@ -30339,6 +30360,7 @@
 ||oldmilram.com^
 ||oldnayfey.com^
 ||oldrrb.bid^
+||oldulgk.cn^
 ||ole777vietnam.com^
 ||olefinefraist.com^
 ||olenation.org^
@@ -33719,6 +33741,7 @@
 ||pwkvdk.com^
 ||pwmctl.com^
 ||pwnz.org^
+||pwqtkap.cn^
 ||pwrads.net^
 ||pwrbpgapi.xyz^
 ||pwrlkyotm.com^
@@ -33848,6 +33871,7 @@
 ||qdrmui.com^
 ||qdtracking.com^
 ||qdwght.com^
+||qdxsodq.cn^
 ||qdzyspjx.com^
 ||qeclsl.com^
 ||qegjhnnnte.com^
@@ -33923,6 +33947,7 @@
 ||qijiuwangluo.ltd^
 ||qiklsv.com^
 ||qilinwh.cn^
+||qimooc.wang^
 ||qinger.name^
 ||qingjiedi.com^
 ||qingrektmkt.com^
@@ -34843,6 +34868,7 @@
 ||reidancis.com^
 ||reindaks.com^
 ||reingod.com^
+||reinstandpointdumbest.com^
 ||reinvigorate.net^
 ||reiqwxxd.com^
 ||reitb.com^
@@ -37898,6 +37924,7 @@
 ||sobowapso.com^
 ||soburge.com^
 ||socadvnet.com^
+||socalleddemocratstripe.com^
 ||socgate.ru^
 ||sochetat.net^
 ||sochr.com^
@@ -40156,6 +40183,7 @@
 ||telephone-voyance.fr^
 ||telephoneinclination.com^
 ||telephoner-voyance.fr^
+||teleport.soom.la^
 ||teletarget.ru^
 ||teliad.com^
 ||telize.com^
@@ -42296,6 +42324,7 @@
 ||tweeshtbacksey.com^
 ||tweetdeck.fr^
 ||twentieslegislation.com^
+||twentycolander.com^
 ||twentycustomimprovement.com^
 ||twentyhandful.com^
 ||tweowhvrim.review^
@@ -45124,6 +45153,7 @@
 ||widget.headlines.pw^
 ||widget.kyna.vn^
 ||widget.market-place.su^
+||widget.marktjagd.de^
 ||widget.mediastealer.com^
 ||widget.privy.com^
 ||widget.sellwild.com^
@@ -45237,6 +45267,7 @@
 ||wirewuss.com^
 ||wirial.com^
 ||wirsauco.com^
+||wisafnie.space^
 ||wiseezab.com^
 ||wisepops.com^
 ||wisesoftsh.com.cn^

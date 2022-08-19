@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-19 10:31:01
+# UPDATED: 2022-08-20 02:31:48
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 9539
+# DOMAIN: 9567
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 92577
+# DOMAIN-SUFFIX: 92576
 # IP-CIDR: 241
 # URL-REGEX: 301
-# TOTAL: 102922
+# TOTAL: 102949
 0026645142c89aeb1.com
 017e689c749.com
 0374adc8c6a6a56.com
@@ -76,6 +76,7 @@
 2delllwrite.com
 2e27bf1f09307aeb.com
 2el-2el-fie.com
+2l6ddsmnm.de
 2mdnsys.com
 2ssltome.ga
 2xbpub.com
@@ -624,6 +625,7 @@ aminev.com
 amjrfmhtmoyan.com
 amkwvxhw.com
 amliands.info
+amp.vg
 ampcid.google.com
 amrfscxvdvfvpa.com
 amrnhiqy.com
@@ -850,6 +852,7 @@ awpxjguq.com
 awrnrkmwtia.com
 awsync.yandex.ru
 awzdbycpiwncrp.com
+ax.babe.today
 ax47mp-xp-21.com
 axadaldlozmqu.com
 axcqasdiots.com
@@ -949,6 +952,7 @@ bbs.search.nkwwnx.com
 bbtwdpczir.com
 bbuyirgucsbfwt.com
 bbyhjamzpkenvm.com
+bbzerk.cn
 bce.baidu.com
 bclizbwet.com
 bcngvwvewfvw.com
@@ -1263,6 +1267,7 @@ cache.sythe.org
 cacl.fr
 cadchbpsifb.com
 cadlereducter.info
+cadsuta.net
 cafooshy.net
 cahvxjmcl.com
 caiba9.xyz
@@ -1329,6 +1334,7 @@ cdn.sdkconfig.site
 cdn.usersnap.com
 cdn.viafoura.net
 cdn7now.com
+cdnads.geeksforgeeks.org
 cdnasjdkajgfhgajfjkagfa.pro
 cdncache2-a.akamaihd.net
 cdnfarm18.com
@@ -1475,6 +1481,7 @@ clks003-glaze.online
 clnlyfxit.com
 clnyonxgsvov.com
 clockdisplaystoring.com
+clog.mirrativ.com
 closeveri.info
 cloud-graphql-live.us-east-1.elasticbeanstalk.com
 cloud.appcelerator.com
@@ -1622,6 +1629,7 @@ cstfzgckbtrb.com
 cswilliamsburg.com
 csyjaajr.com
 ct.sendgrid.net
+ct4s.top
 ctpjfacao.com
 ctqoduhdji.com
 ctsrwmcshv.com
@@ -1772,6 +1780,7 @@ decografix.com
 decota.es
 decrolyschool.be
 dedao.igetget.com
+deeplearning.red
 defaultimg.com
 defeatural.com
 dehardward.com
@@ -2408,6 +2417,7 @@ evaffwmdjgtn.com
 evanetpro.com
 evdveuys.com
 evenexcite.com
+event-service.letslinc.com
 event-tag.yesware.com.herokudns.com
 events-prod.autolist.com
 events.adwidecenter.com
@@ -2950,6 +2960,7 @@ gjbgesaromnb.com
 gjdawsvqs.com
 gjdnksgfwoj.com
 gjdogaqhtzaqj.com
+gjeonh.cn
 gjijrevdp.com
 gjnusfiby.com
 gjproyrwjv.com
@@ -3113,6 +3124,7 @@ gwpjvfqeui.com
 gwucenxvmkowap.com
 gwwzlwibbws.com
 gwywsuemmf.com
+gwzqbnh.cn
 gxklbrtpqqyvy.com
 gxmjjxyyljtyf.com
 gxpijskyqwqfjw.com
@@ -4866,6 +4878,7 @@ mbmwfufkaxll.com
 mbpjpmcz.com
 mbsivmsbuteaz.com
 mc.yandex.ru
+mcangelus.com
 mcdstorage.com
 mcgndenytmy.com
 mchpowtyj.com
@@ -5020,6 +5033,7 @@ mnbfujorh.com
 mnfiiphpwzyncr.com
 mnnsjudnfgalyx.com
 mnozqjxzrhko.com
+mnver.xyz
 mnwmcyyoxm.com
 mnyawkpabrsv.com
 mnzdgidf.com
@@ -5064,6 +5078,7 @@ monarchslo.com
 monditomasks.co
 moneromining.online
 money4ads.com
+monsido.com
 montezuma.spb.ru
 montmti.top
 montpti.top
@@ -5101,6 +5116,7 @@ mrhtltayffbrgv.com
 mrjppjqmc.com
 mrjzfzwey.com
 mrnvpqtqkx.com
+mrpdata.net
 mrperfect.in
 mruxsxrnu.com
 mrycrypto.com
@@ -5137,6 +5153,7 @@ muhexvakuawzo.com
 mujzsntbwzwc.com
 multiadserv.com
 mumbldnn.com
+mumnxwvn.ink
 munpprwlhric.com
 muoiuxfj.com
 murbil.hostei.com
@@ -5272,6 +5289,7 @@ ndndasyo.com
 ndricshoweverau.info
 ndsinternanhono.info
 nefczemmdcqi.com
+neokbu.cn
 nepalhtml.com
 nepyhecawr.com
 nesnts.cn
@@ -5597,6 +5615,7 @@ oijjptnwrg.com
 oimpkumntje.com
 oinqqbzs.com
 oipcqenejq.com
+oisafnik.space
 oiumoqzo.com
 oiurtedh.com
 ojaulrop.com
@@ -5996,6 +6015,7 @@ plqakqvku.com
 plusfind.net
 plwvwvhudkuv.com
 plzjcnyxcdl.com
+pm.boostintegrated.com
 pm.dailykos.com
 pmdgwnsgucy.com
 pminnsodv.com
@@ -6167,6 +6187,7 @@ push.ksapisrv.com
 push2.eastmoney.com
 pushengage.im
 pushservice.one
+pushtorm.net
 pussl33.com
 pussl38.com
 pussl39.com
@@ -6519,6 +6540,7 @@ rauraich.com
 ravalynn.pw
 rawr.at
 raxlextehqhw.com
+rb.gy
 rbefyepmgrhp.com
 rbkubbeytzp.com
 rbrpamcygqplm.com
@@ -6583,6 +6605,7 @@ resimler.randevum.com
 resolvethem.com
 restapi.amap.com
 reszkzmyzceve.com
+retailads.net
 retainguaninefluorite.info
 retargetpro.net
 retcode.taobao.com
@@ -6626,6 +6649,7 @@ richmanapi.jxedt.com
 richmanmain.jxedt.com
 richmanrules.jxedt.com
 rientgallacecapt.info
+rigill.com
 rigybdgiubwqg.com
 rimezvsto.com
 riozwajocltca.com
@@ -7277,6 +7301,7 @@ symav.cn
 sync.hariken.co
 synhandler.net
 syp.shcfpx.com
+sysdmt.com
 sywwplqqumjgm.com
 szausichl.com
 szdfteyb.com
@@ -8248,6 +8273,7 @@ vw81e.cn
 vwadblujv.com
 vwdrpxmgehqknz.com
 vwkyuawm.com
+vwocvgr.cn
 vwpoxvufxnon.com
 vwprafiwoiut.com
 vwvnounnfteusv.com
@@ -8394,6 +8420,7 @@ whatseet.net
 wheptoot.net
 whjwcghg.com
 whlvjuprdpkg.com
+whpfl.cn
 whsihagyyhj.com
 wiazkkjbeqr.com
 wicanwfobqiz.com
@@ -9397,6 +9424,7 @@ zkic.com
 zkmyaizgc.com
 zkoumvpngkubl.com
 zkowrpcb.com
+zkqfrti.cn
 zksdztizohcfy.com
 zkwtqwwks.com
 zkzpfpoazfgq.com
@@ -19849,7 +19877,6 @@ zzxosget.com
 .am.6park.com
 .am.belambra.com
 .am.g.ireader.com
-.am.i.mullvad.net
 .am.streamdj.ru
 .am.szhome.com
 .am.titsx.com
