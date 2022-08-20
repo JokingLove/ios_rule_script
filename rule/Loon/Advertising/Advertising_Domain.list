@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-20 02:31:10
+# UPDATED: 2022-08-21 02:26:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 14149
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 73981
+# DOMAIN-SUFFIX: 74016
 # IP-CIDR: 240
 # URL-REGEX: 301
-# TOTAL: 88748
+# TOTAL: 88783
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -15059,6 +15059,7 @@ zzxosget.com
 .2ktd0.cn
 .2l0g3xd.cn
 .2l1f.cn
+.2l6ddsmnm.de
 .2laezi9.cn
 .2leep.com
 .2llmonds4ehcr93nb.com
@@ -15901,6 +15902,7 @@ zzxosget.com
 .666759.xyz
 .666762.xyz
 .666763.xyz
+.666764.xyz
 .6667778882021.site
 .6669667.com
 .666video.asia
@@ -22868,6 +22870,7 @@ zzxosget.com
 .amp-error-reporting.appspot.com
 .amp.rd.linksynergy.com
 .amp.services
+.amp.vg
 .ampallall.site
 .ampclicks.com
 .ampcr.io
@@ -23149,6 +23152,7 @@ zzxosget.com
 .analytics.gvim.mobi
 .analytics.hashnode.com
 .analytics.hayneedle.com
+.analytics.helpukrainewinwidget.org
 .analytics.hermesworld.com
 .analytics.hindustantimes.com
 .analytics.hiome.com
@@ -25090,6 +25094,7 @@ zzxosget.com
 .awyys.com
 .awzbijw.com
 .ax.120ask.com
+.ax.babe.today
 .ax.ggfeng.com
 .ax.idg.se
 .ax.ifeng.com
@@ -26103,6 +26108,7 @@ zzxosget.com
 .bbvdd.com
 .bbvever.com
 .bbvjs.com
+.bbzerk.cn
 .bc.5.p2l.info
 .bc.coupons.com
 .bc.geocities.yahoo.co.jp
@@ -28869,6 +28875,7 @@ zzxosget.com
 .cadsips.com
 .cadskiz.com
 .cadslimz.com
+.cadsuta.net
 .caduka.cn
 .cadvv.heraldm.com
 .cadvv.koreaherald.com
@@ -29594,6 +29601,7 @@ zzxosget.com
 .cdn7.space
 .cdnads.cam4.com
 .cdnads.com
+.cdnads.geeksforgeeks.org
 .cdnanalytics.xyz
 .cdnapi.net
 .cdnaqw.com
@@ -30939,6 +30947,7 @@ zzxosget.com
 .clnk.me
 .clodsplit.com
 .clog.go.com
+.clog.mirrativ.com
 .clogindustresmails.carte-gr.total.fr
 .clogrecord.com
 .cloisteredcord.com
@@ -32973,6 +32982,7 @@ zzxosget.com
 .ct2.kyarame.com
 .ct2.sarashi.com
 .ct372.cn
+.ct4s.top
 .ct5m.citadium.com
 .ctags.cn
 .ctasnet.com
@@ -34726,6 +34736,7 @@ zzxosget.com
 .deepintent.com
 .deepknow.egoid.me
 .deeplacer.com
+.deeplearning.red
 .deeplink.aspiration.com
 .deeplink.instacartemail.com
 .deeplinks.padmapper.com
@@ -37700,6 +37711,7 @@ zzxosget.com
 .elephantdata.net
 .elephantqueue.com
 .elepocial.pro
+.elepts.com
 .elevagant.club
 .elevenmedia.cn
 .elevoy.ru
@@ -38033,6 +38045,7 @@ zzxosget.com
 .enbpvt.com
 .encasedandelionhauled.com
 .enceansom.club
+.encesprincipl.one
 .enchantedjudge.com
 .enchantedtop.com
 .enchantmenthopeless.com
@@ -38791,6 +38804,7 @@ zzxosget.com
 .event-listener.air.tv
 .event-reporting-dot-webylytics.appspot.com
 .event-search.jorte.com
+.event-service.letslinc.com
 .event-stream.spot.im
 .event.api.drift.com
 .event.chitai-gorod.ru
@@ -42384,6 +42398,7 @@ zzxosget.com
 .gjapplog.uc.cn
 .gjapplog.ucweb.com
 .gjc.gjirafa.com
+.gjeonh.cn
 .gjghy.com
 .gjiai.com
 .gjiak.com
@@ -42409,6 +42424,7 @@ zzxosget.com
 .gkenql.cn
 .gkidgpdvpe.xyz
 .gkijlmbgf.xyz
+.gkiyvbk.cn
 .gkksi.com
 .gkngokwjmykp.xyz
 .gkpohvff.com
@@ -43611,6 +43627,7 @@ zzxosget.com
 .gwwhheahisrtld.com
 .gwxpv.com
 .gwylm.com
+.gwzqbnh.cn
 .gx.idg.se
 .gx101.com
 .gx38.cn
@@ -44507,6 +44524,7 @@ zzxosget.com
 .hggtt.top
 .hghit.com
 .hghm4u7b61.com
+.hgjxp.cn
 .hgkzl.cn
 .hgo7r.cn
 .hgofcd.com
@@ -46242,6 +46260,7 @@ zzxosget.com
 .ilczz.cn
 .ildwicqrqazgjz.com
 .iledefrance-mutualite.fr
+.ileesidesu.hair
 .ilex.asia
 .ilgze.cn
 .ili.pp.ua
@@ -47958,7 +47977,6 @@ zzxosget.com
 .j.hongyangpai.com
 .j.image-ad.jp
 .j.imdb.cn
-.j.mrpdata.net
 .j.northbeam.io
 .j.qijijs.top
 .j.s11.cn
@@ -54372,6 +54390,7 @@ zzxosget.com
 .mc876.com
 .mcad.mods-clinic.com
 .mcaik.com
+.mcangelus.com
 .mcaril.com
 .mcaspkd.cn
 .mccafee-orientador.com-br.site
@@ -56122,6 +56141,7 @@ zzxosget.com
 .mnutan.fr
 .mnuy56.site
 .mnvde.com
+.mnver.xyz
 .mnvrwq.xyz
 .mnwan.com
 .mnwor.xuanlishi.com
@@ -56406,6 +56426,7 @@ zzxosget.com
 .monorail-edge.shopifysvc.com
 .monotonousincessant.com
 .monppaiement.fr
+.monsido.com
 .monsoonads.com
 .monstat.com
 .monsterpops.com
@@ -56698,6 +56719,7 @@ zzxosget.com
 .mrksmm.yumegazai.com
 .mrksys.com
 .mrnpwuere.com
+.mrpdata.net
 .mrpecvqw.com
 .mrpjcd.tensunits.com
 .mrqpcy.biggreensmile.nl
@@ -56930,6 +56952,7 @@ zzxosget.com
 .multirek.ru
 .multiview.com
 .multonly.ru
+.mumnxwvn.ink
 .mumosy.com
 .munchenviableski.com
 .mundanepollution.com
@@ -57726,6 +57749,7 @@ zzxosget.com
 .neoffic.com
 .neofield.click
 .neogaeakasher.com
+.neokbu.cn
 .neon-genesis-evangelion-online.fr
 .neon.today
 .neonateaxone.com
@@ -59512,6 +59536,7 @@ zzxosget.com
 .oiqpgawl.com
 .oir85.cn
 .oirmwitmrfpl.com
+.oisafnik.space
 .oiseau-perdu.fr
 .oiuqwppcsdf.com
 .oiwjcsh001.top
@@ -62564,6 +62589,7 @@ zzxosget.com
 .plyvitablesagree.info
 .plywoodenchant.com
 .plz.jandan.net
+.pm.boostintegrated.com
 .pm.poqwua.cn
 .pm0.net
 .pm14.com
@@ -64192,6 +64218,7 @@ zzxosget.com
 .pushspring.com
 .pushtimize.com
 .pushtora.com
+.pushtorm.net
 .pushtrack.co
 .pushub.net
 .pushup.space
@@ -64365,6 +64392,7 @@ zzxosget.com
 .pyq6n.com
 .pyropenunmould.com
 .pyrroylceriums.com
+.pyrrtep.cn
 .pyshcpasabngyy.com
 .python.jacksellwood.com
 .pytxsn.najlacnejsisport.sk
@@ -64672,6 +64700,7 @@ zzxosget.com
 .qiqqh.cn
 .qirnz.com
 .qiruidea.com
+.qisafniy.space
 .qisemrvldy.com
 .qitdsl.ralf.ru
 .qiutian.buzz
@@ -65385,6 +65414,7 @@ zzxosget.com
 .razdvabm.com
 .razor.arnes.si
 .razuphyju.com
+.rb.gy
 .rb.ras1.site
 .rb.rfn.ru
 .rb.sport-express.ru
@@ -66248,6 +66278,7 @@ zzxosget.com
 .retagapp.com
 .retagro.com
 .retail-server.ru
+.retailads.net
 .retaildetail.fr
 .retailgobioid.com
 .retaindeductionperformed.com
@@ -66524,6 +66555,7 @@ zzxosget.com
 .rights.wang
 .rightstats.com
 .rigidrobin.com
+.rigill.com
 .rigxpadydyveja.com
 .rihaschgj.com
 .rihosaphe.com
@@ -68899,7 +68931,6 @@ zzxosget.com
 .serv0.com
 .serv1swork.com
 .servads.net
-.servadsdisrupt.com
 .servantolog.ru
 .servboost.tech
 .servcliente.marathon-sports-ec.com
@@ -74527,6 +74558,7 @@ zzxosget.com
 .sysal.cn
 .sysdiag.ru
 .sysdig.com
+.sysdmt.com
 .sysfiles.net
 .sysip.net
 .sysjazi.cn
@@ -78108,7 +78140,6 @@ zzxosget.com
 .tracking.mobile.de
 .tracking.mollyladies.de
 .tracking.moneyam.com
-.tracking.monsido.com
 .tracking.motleyfool.com
 .tracking.motorolasolutions.com
 .tracking.musixmatch.com
@@ -81511,6 +81542,7 @@ zzxosget.com
 .vlc.de
 .vlclptmgxmijbyf.com
 .vlgpkn.com
+.vliao365.com
 .vlion.cn
 .vliplatform.com
 .vlitag.com
@@ -81932,6 +81964,7 @@ zzxosget.com
 .vwinsportsvn.com
 .vwinthethao.com
 .vwkhdi.cn
+.vwocvgr.cn
 .vwonwkaqvq-a.global.ssl.fastly.net
 .vwraggcs.xyz
 .vwsportasia.com
@@ -83070,6 +83103,7 @@ zzxosget.com
 .whoutsog.net
 .whowhipi.net
 .whozuxoko.com
+.whpfl.cn
 .whpxy.com
 .whrhzz.com
 .whrles.com
@@ -87698,6 +87732,7 @@ zzxosget.com
 .zkit.club
 .zkjh.info
 .zkmhhr1fr79z.dictionary.basabali.org
+.zkqfrti.cn
 .zkqqsjdgscrwm.com
 .zkrdy.com
 .zkrmeml.cn
