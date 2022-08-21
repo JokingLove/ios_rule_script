@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-18 02:29:25
+# UPDATED: 2022-08-22 02:28:34
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 30
-# DOMAIN-SUFFIX: 24703
+# DOMAIN-SUFFIX: 24700
 # IP-CIDR: 92
 # IP-CIDR6: 3
-# TOTAL: 24835
+# TOTAL: 24832
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -7689,6 +7689,7 @@ payload:
   - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,firecams.com
   - DOMAIN-SUFFIX,firech.at
+  - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefoxfan.com
   - DOMAIN-SUFFIX,fireofliberty.org
   - DOMAIN-SUFFIX,firetell.net
@@ -7841,7 +7842,6 @@ payload:
   - DOMAIN-SUFFIX,fpmt.org
   - DOMAIN-SUFFIX,fpmt.tw
   - DOMAIN-SUFFIX,fpmtmexico.org
-  - DOMAIN-SUFFIX,fpn.firefox.com
   - DOMAIN-SUFFIX,fpraognet.xmx-134-1.com
   - DOMAIN-SUFFIX,fpraognet.xmx-134.com
   - DOMAIN-SUFFIX,fproxy.nl
@@ -15048,7 +15048,6 @@ payload:
   - DOMAIN-SUFFIX,rejoiceatsameway.org.au
   - DOMAIN-SUFFIX,relaxbbs.com
   - DOMAIN-SUFFIX,relay.com.tw
-  - DOMAIN-SUFFIX,relay.firefox.com
   - DOMAIN-SUFFIX,relearnings.com
   - DOMAIN-SUFFIX,releaseinternational.org
   - DOMAIN-SUFFIX,releenc.org
@@ -15604,7 +15603,6 @@ payload:
   - DOMAIN-SUFFIX,seminar.shoplineapp.cn
   - DOMAIN-SUFFIX,seminars.tca.org.tw
   - DOMAIN-SUFFIX,semprot.com
-  - DOMAIN-SUFFIX,send.firefox.com
   - DOMAIN-SUFFIX,send6.com
   - DOMAIN-SUFFIX,sendlove.to
   - DOMAIN-SUFFIX,sendsmtp.com
@@ -16933,7 +16931,6 @@ payload:
   - DOMAIN-SUFFIX,test.nadeo.com
   - DOMAIN-SUFFIX,testapi.xinbet.net
   - DOMAIN-SUFFIX,testmakeer.weebly.com
-  - DOMAIN-SUFFIX,testpilot.firefox.com
   - DOMAIN-SUFFIX,tew.org
   - DOMAIN-SUFFIX,texasartsacademics.org
   - DOMAIN-SUFFIX,texasboyschoir.org

@@ -1,13 +1,13 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-20 02:33:35
+# UPDATED: 2022-08-22 02:30:02
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 523
+# DOMAIN-SUFFIX: 522
 # IP-CIDR: 14
 # USER-AGENT: 31
-# TOTAL: 596
+# TOTAL: 595
 DOMAIN,analytics.strava.com
 DOMAIN,api.steampowered.com,DIRECT
 DOMAIN,blzddist1-a.akamaihd.net
@@ -193,7 +193,6 @@ DOMAIN-SUFFIX,feiliao.com,DIRECT
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fengkongcloud.com,DIRECT
 DOMAIN-SUFFIX,fir.im
-DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,fjhps.com
 DOMAIN-SUFFIX,flyert.com,DIRECT
 DOMAIN-SUFFIX,ford.com

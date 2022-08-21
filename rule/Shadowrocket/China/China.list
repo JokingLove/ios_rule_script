@@ -1,13 +1,13 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-20 02:32:30
+# UPDATED: 2022-08-22 02:28:46
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 558
+# DOMAIN-SUFFIX: 557
 # IP-CIDR: 14
 # USER-AGENT: 31
-# TOTAL: 631
+# TOTAL: 630
 DOMAIN,analytics.strava.com
 DOMAIN,api.steampowered.com,DIRECT
 DOMAIN,blzddist1-a.akamaihd.net
@@ -204,7 +204,6 @@ DOMAIN-SUFFIX,feiliao.com,DIRECT
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fengkongcloud.com,DIRECT
 DOMAIN-SUFFIX,fir.im
-DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,fjhps.com
 DOMAIN-SUFFIX,flyert.com,DIRECT
 DOMAIN-SUFFIX,ford.com

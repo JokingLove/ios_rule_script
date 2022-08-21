@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-18 02:29:25
+# UPDATED: 2022-08-22 02:28:34
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 30
-# DOMAIN-SUFFIX: 24703
+# DOMAIN-SUFFIX: 24700
 # IP-CIDR: 92
 # IP-CIDR6: 3
-# TOTAL: 24835
+# TOTAL: 24832
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -7688,6 +7688,7 @@ voice.telephony.goog
 .firebaseio.com
 .firecams.com
 .firech.at
+.firefox.com
 .firefoxfan.com
 .fireofliberty.org
 .firetell.net
@@ -7840,7 +7841,6 @@ voice.telephony.goog
 .fpmt.org
 .fpmt.tw
 .fpmtmexico.org
-.fpn.firefox.com
 .fpraognet.xmx-134-1.com
 .fpraognet.xmx-134.com
 .fproxy.nl
@@ -15047,7 +15047,6 @@ voice.telephony.goog
 .rejoiceatsameway.org.au
 .relaxbbs.com
 .relay.com.tw
-.relay.firefox.com
 .relearnings.com
 .releaseinternational.org
 .releenc.org
@@ -15603,7 +15602,6 @@ voice.telephony.goog
 .seminar.shoplineapp.cn
 .seminars.tca.org.tw
 .semprot.com
-.send.firefox.com
 .send6.com
 .sendlove.to
 .sendsmtp.com
@@ -16932,7 +16930,6 @@ voice.telephony.goog
 .test.nadeo.com
 .testapi.xinbet.net
 .testmakeer.weebly.com
-.testpilot.firefox.com
 .tew.org
 .texasartsacademics.org
 .texasboyschoir.org

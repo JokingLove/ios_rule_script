@@ -1,7 +1,7 @@
 # NAME: ChinaIPsBGP
 # AUTHOR: misakaio
 # REPO: https://github.com/misakaio/chnroutes2
-# UPDATED: 2022-08-21 02:28:47
+# UPDATED: 2022-08-22 02:29:49
 # IP-CIDR: 4482
 # TOTAL: 4482
 IP-CIDR,1.116.0.0/15,no-resolve
@@ -670,7 +670,7 @@ IP-CIDR,113.200.0.0/15,no-resolve
 IP-CIDR,113.204.0.0/14,no-resolve
 IP-CIDR,113.209.0.0/16,no-resolve
 IP-CIDR,113.21.232.0/24,no-resolve
-IP-CIDR,113.21.236.0/23,no-resolve
+IP-CIDR,113.21.236.0/22,no-resolve
 IP-CIDR,113.213.0.0/18,no-resolve
 IP-CIDR,113.213.64.0/19,no-resolve
 IP-CIDR,113.213.96.0/20,no-resolve
@@ -3723,7 +3723,7 @@ IP-CIDR,222.30.96.0/20,no-resolve
 IP-CIDR,222.31.0.0/16,no-resolve
 IP-CIDR,222.41.0.0/16,no-resolve
 IP-CIDR,222.64.0.0/11,no-resolve
-IP-CIDR,223.0.0.0/15,no-resolve
+IP-CIDR,223.0.0.0/16,no-resolve
 IP-CIDR,223.128.128.0/19,no-resolve
 IP-CIDR,223.128.160.0/20,no-resolve
 IP-CIDR,223.129.0.0/21,no-resolve

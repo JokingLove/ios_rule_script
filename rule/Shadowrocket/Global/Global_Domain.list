@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-18 02:29:14
+# UPDATED: 2022-08-22 02:28:21
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 38
-# DOMAIN-SUFFIX: 24850
+# DOMAIN-SUFFIX: 24847
 # IP-CIDR: 114
 # USER-AGENT: 44
-# TOTAL: 25082
+# TOTAL: 25079
 abematv.akamaized.net
 addons.mozilla.org
 amp-api.podcasts.apple.com
@@ -7769,6 +7769,7 @@ youtubei.googleapis.com
 .firebaseio.com
 .firecams.com
 .firech.at
+.firefox.com
 .firefoxfan.com
 .fireofliberty.org
 .firetell.net
@@ -7923,7 +7924,6 @@ youtubei.googleapis.com
 .fpmt.org
 .fpmt.tw
 .fpmtmexico.org
-.fpn.firefox.com
 .fpraognet.xmx-134-1.com
 .fpraognet.xmx-134.com
 .fproxy.nl
@@ -15200,7 +15200,6 @@ youtubei.googleapis.com
 .rejoiceatsameway.org.au
 .relaxbbs.com
 .relay.com.tw
-.relay.firefox.com
 .relearnings.com
 .releaseinternational.org
 .releenc.org
@@ -15756,7 +15755,6 @@ youtubei.googleapis.com
 .seminar.shoplineapp.cn
 .seminars.tca.org.tw
 .semprot.com
-.send.firefox.com
 .send6.com
 .sendlove.to
 .sendsmtp.com
@@ -17098,7 +17096,6 @@ youtubei.googleapis.com
 .test.nadeo.com
 .testapi.xinbet.net
 .testmakeer.weebly.com
-.testpilot.firefox.com
 .tew.org
 .texasartsacademics.org
 .texasboyschoir.org
