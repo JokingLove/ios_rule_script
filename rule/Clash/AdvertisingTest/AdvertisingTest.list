@@ -1,15 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-22 02:27:58
-# DOMAIN: 9535
+# UPDATED: 2022-08-22 10:39:01
+# DOMAIN: 9530
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 92378
+# DOMAIN-SUFFIX: 92394
 # IP-CIDR: 242
-# TOTAL: 102418
+# TOTAL: 102429
 DOMAIN,46186911.vtt
 DOMAIN,80055404.vtt
-DOMAIN,888yh.xyz
 DOMAIN,absurdapple.com
 DOMAIN,adfstat.yandex.ru
 DOMAIN,ads.yahoo.com
@@ -22,10 +21,8 @@ DOMAIN,applebarq.com
 DOMAIN,applequan.com
 DOMAIN,applescringe.com
 DOMAIN,awsync.yandex.ru
-DOMAIN,bakeryembedded.com
 DOMAIN,beacon.search.yahoo.com
 DOMAIN,beap-bc.yahoo.com
-DOMAIN,bettermeter.com
 DOMAIN,crypta.js
 DOMAIN,d1stxfv94hrhia.cloudfront
 DOMAIN,dmg-dd.oss-accelerate.aliyuncs.com
@@ -34,7 +31,6 @@ DOMAIN,fpb1.apple886.com
 DOMAIN,https-apple.com
 DOMAIN,iadsdk.apple.com
 DOMAIN,ib.snssdk.com
-DOMAIN,img301.com
 DOMAIN,jpaasne.e.shifen.com
 DOMAIN,log.strm.yandex.ru
 DOMAIN,marketingsolutions.yahoo.com
@@ -48,7 +44,6 @@ DOMAIN,shackapple.com
 DOMAIN,stats.video.search.yahoo.com
 DOMAIN,sub.powerapple.com
 DOMAIN,theapple.site
-DOMAIN,uu2e.com
 DOMAIN,wzjs1.oss-accelerate.aliyuncs.com
 DOMAIN,youtube.local
 DOMAIN,ad.xy2013.cn
@@ -6731,6 +6726,7 @@ DOMAIN,taozgpkjzpdtgr.com
 DOMAIN,tapffdskgjr.com
 DOMAIN,targetctracker.com
 DOMAIN,tarteaucitron.ml
+DOMAIN,tat.pandora.xiaomi.com
 DOMAIN,tataget.ru
 DOMAIN,tatami-solutions.com
 DOMAIN,tauwhout.net
@@ -8813,7 +8809,6 @@ DOMAIN,zzxlukodff.com
 DOMAIN,zzxosget.com
 DOMAIN,519332da.rtc.youme.im
 DOMAIN,gvod.aiseejapp.atianqi.com
-DOMAIN,tat.pandora.xiaomi.com
 DOMAIN,204.scloud.lfengmobile.com
 DOMAIN,2mdnsys.com
 DOMAIN,39d83s.com
@@ -60395,7 +60390,6 @@ DOMAIN-SUFFIX,data.haoma.sogou.com
 DOMAIN-SUFFIX,data.mic.com
 DOMAIN-SUFFIX,data.neuroxmedia.com
 DOMAIN-SUFFIX,data.studybreakmedia.com
-DOMAIN-SUFFIX,data.vod.itc.cn
 DOMAIN-SUFFIX,data.waptime.cn
 DOMAIN-SUFFIX,data2.doodlemobile.com
 DOMAIN-SUFFIX,datafastguru.info
@@ -69390,6 +69384,7 @@ DOMAIN-SUFFIX,220efda3143.com
 DOMAIN-SUFFIX,2226ka.com
 DOMAIN-SUFFIX,225c34aba07.com
 DOMAIN-SUFFIX,22773.com
+DOMAIN-SUFFIX,22fssv.com
 DOMAIN-SUFFIX,22qzhao5.cn
 DOMAIN-SUFFIX,2334ea708ab6d79.com
 DOMAIN-SUFFIX,233fb5b59351.com
@@ -69863,6 +69858,7 @@ DOMAIN-SUFFIX,88-sms.com
 DOMAIN-SUFFIX,88.yunqishi8.com
 DOMAIN-SUFFIX,888games.com
 DOMAIN-SUFFIX,888poker.com
+DOMAIN-SUFFIX,888yh.xyz
 DOMAIN-SUFFIX,88cpc.com
 DOMAIN-SUFFIX,88hb7evabd.com
 DOMAIN-SUFFIX,88hs.net
@@ -71270,6 +71266,7 @@ DOMAIN-SUFFIX,ailingglorify.com
 DOMAIN-SUFFIX,ailingtonwh.club
 DOMAIN-SUFFIX,aima.weathercn.com
 DOMAIN-SUFFIX,aimato.com
+DOMAIN-SUFFIX,aimtxb.cn
 DOMAIN-SUFFIX,ainedprospe.club
 DOMAIN-SUFFIX,aintinuumdelos.com
 DOMAIN-SUFFIX,aintyjarde.top
@@ -72189,6 +72186,7 @@ DOMAIN-SUFFIX,baiwv.com
 DOMAIN-SUFFIX,baixing.com
 DOMAIN-SUFFIX,baizhu.cc
 DOMAIN-SUFFIX,bajarlo.net
+DOMAIN-SUFFIX,bakeryembedded.com
 DOMAIN-SUFFIX,bakibarus.com
 DOMAIN-SUFFIX,balancedingrent.com
 DOMAIN-SUFFIX,balancer.devtodev.com
@@ -72414,6 +72412,7 @@ DOMAIN-SUFFIX,betjeyxf.com
 DOMAIN-SUFFIX,betrad.com.edgekey.net
 DOMAIN-SUFFIX,betrayedgeoffrey.com
 DOMAIN-SUFFIX,betrayedregretdeadline.com
+DOMAIN-SUFFIX,bettermeter.com
 DOMAIN-SUFFIX,betternoon.club
 DOMAIN-SUFFIX,betuuvhozpylo.com
 DOMAIN-SUFFIX,betway787.com
@@ -77968,6 +77967,7 @@ DOMAIN-SUFFIX,img2.g.pptv.com
 DOMAIN-SUFFIX,img2.pengfu.net
 DOMAIN-SUFFIX,img2.user.kanimg.com
 DOMAIN-SUFFIX,img3.g.pptv.com
+DOMAIN-SUFFIX,img301.com
 DOMAIN-SUFFIX,imglnka.com
 DOMAIN-SUFFIX,imglnkb.com
 DOMAIN-SUFFIX,imglnkc.com
@@ -78656,6 +78656,7 @@ DOMAIN-SUFFIX,jqassets.download
 DOMAIN-SUFFIX,jqcdn01.herokuapp.com
 DOMAIN-SUFFIX,jqcdn03.herokuapp.com
 DOMAIN-SUFFIX,jqcdn2.herokuapp.com
+DOMAIN-SUFFIX,jqeyvtgelo.com
 DOMAIN-SUFFIX,jqki.cn
 DOMAIN-SUFFIX,jqlbzt.gear4music.no
 DOMAIN-SUFFIX,jqlzwb.bauhaus.fi
@@ -78841,6 +78842,7 @@ DOMAIN-SUFFIX,kaplay.com
 DOMAIN-SUFFIX,kaptcha.com
 DOMAIN-SUFFIX,karuna4u.com
 DOMAIN-SUFFIX,kasa.m.biqubao.com
+DOMAIN-SUFFIX,kasdwergv.com
 DOMAIN-SUFFIX,katcqa.azeta.lv
 DOMAIN-SUFFIX,kbirdsind.top
 DOMAIN-SUFFIX,kbx1sth37s.com
@@ -81209,6 +81211,7 @@ DOMAIN-SUFFIX,miriamholid.fun
 DOMAIN-SUFFIX,miricommunity.net
 DOMAIN-SUFFIX,mirrorpersonalinjury.co.uk
 DOMAIN-SUFFIX,mirtesen.ru
+DOMAIN-SUFFIX,misafnix.space
 DOMAIN-SUFFIX,misc-xl9-ssl.xunlei.com
 DOMAIN-SUFFIX,misc.in.duokanbox.com
 DOMAIN-SUFFIX,misc.pandora.xiaomi.com
@@ -81248,6 +81251,7 @@ DOMAIN-SUFFIX,mjjvkx.monoprice.com
 DOMAIN-SUFFIX,mjlpqbklxgt.com
 DOMAIN-SUFFIX,mjlsiopjesbn.com
 DOMAIN-SUFFIX,mjnzmb.jasmine.ua
+DOMAIN-SUFFIX,mjrhficjcbf.com
 DOMAIN-SUFFIX,mjt.lacoste.com
 DOMAIN-SUFFIX,mjtowot.cn
 DOMAIN-SUFFIX,mjvmypr.cn
@@ -81528,6 +81532,7 @@ DOMAIN-SUFFIX,mugcix.hessnatur.com
 DOMAIN-SUFFIX,mugrikees.com
 DOMAIN-SUFFIX,muhaingi.com
 DOMAIN-SUFFIX,muhttw.spotlightstores.com
+DOMAIN-SUFFIX,mukjozy.cn
 DOMAIN-SUFFIX,mulanphone.cn
 DOMAIN-SUFFIX,mule.caddyserver.com
 DOMAIN-SUFFIX,multi-cluster.directservices.it
@@ -82995,6 +83000,7 @@ DOMAIN-SUFFIX,peep1alea.com
 DOMAIN-SUFFIX,peeticadd.com
 DOMAIN-SUFFIX,peezette-intial.com
 DOMAIN-SUFFIX,pegaumsi.com
+DOMAIN-SUFFIX,peigbv.cn
 DOMAIN-SUFFIX,peiliao-china.com
 DOMAIN-SUFFIX,pelican.protomaps.com
 DOMAIN-SUFFIX,pem.tamboys.pics
@@ -84587,6 +84593,7 @@ DOMAIN-SUFFIX,rushhips.com
 DOMAIN-SUFFIX,russianemasculateincident.com
 DOMAIN-SUFFIX,russianlovematch.com
 DOMAIN-SUFFIX,russionsdeath.fun
+DOMAIN-SUFFIX,rusticswollenbelonged.com
 DOMAIN-SUFFIX,rustleobtainedflute.com
 DOMAIN-SUFFIX,rustyellow.com
 DOMAIN-SUFFIX,ruth8badb.com
@@ -87518,6 +87525,7 @@ DOMAIN-SUFFIX,sxmxpm.nectarsleep.com
 DOMAIN-SUFFIX,sxuunews.pro
 DOMAIN-SUFFIX,sxxjdz.com
 DOMAIN-SUFFIX,sxyunyou.cn
+DOMAIN-SUFFIX,sxyzhdf.cn
 DOMAIN-SUFFIX,sybhpi.cn
 DOMAIN-SUFFIX,syblyj.com
 DOMAIN-SUFFIX,sycbkk.sputnik8.com
@@ -88808,6 +88816,7 @@ DOMAIN-SUFFIX,uhlkij.bonprix.it
 DOMAIN-SUFFIX,uhqunq.tktimport.com
 DOMAIN-SUFFIX,uhygtf1.com
 DOMAIN-SUFFIX,ui.videojav.com
+DOMAIN-SUFFIX,uibtxv.cn
 DOMAIN-SUFFIX,uilsplentialde.top
 DOMAIN-SUFFIX,uim.tifbs.net
 DOMAIN-SUFFIX,uincalcularlyt.club
@@ -89018,6 +89027,7 @@ DOMAIN-SUFFIX,uts.kingoapp.com
 DOMAIN-SUFFIX,utteredhandicappedsomebody.com
 DOMAIN-SUFFIX,utteroccupied.com
 DOMAIN-SUFFIX,utubeconverter.com
+DOMAIN-SUFFIX,uu2e.com
 DOMAIN-SUFFIX,uu7ey6.cn
 DOMAIN-SUFFIX,uuaajohul.com
 DOMAIN-SUFFIX,uuaoz.com
@@ -89045,6 +89055,7 @@ DOMAIN-SUFFIX,uwwjhu.peppynet.com
 DOMAIN-SUFFIX,uwxdru.hellovillam.com
 DOMAIN-SUFFIX,uxernab.com
 DOMAIN-SUFFIX,uxfpdo3hx5fi.com
+DOMAIN-SUFFIX,uxngqd.cn
 DOMAIN-SUFFIX,uxowypikexhz.com
 DOMAIN-SUFFIX,uxrjdh.com
 DOMAIN-SUFFIX,uxusheppared.club

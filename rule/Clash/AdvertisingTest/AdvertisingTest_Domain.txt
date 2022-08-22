@@ -1,15 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-22 02:27:58
-# DOMAIN: 9535
+# UPDATED: 2022-08-22 10:39:01
+# DOMAIN: 9530
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 92378
+# DOMAIN-SUFFIX: 92394
 # IP-CIDR: 242
-# TOTAL: 102418
+# TOTAL: 102429
 46186911.vtt
 80055404.vtt
-888yh.xyz
 absurdapple.com
 adfstat.yandex.ru
 ads.yahoo.com
@@ -22,10 +21,8 @@ applebarq.com
 applequan.com
 applescringe.com
 awsync.yandex.ru
-bakeryembedded.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
-bettermeter.com
 crypta.js
 d1stxfv94hrhia.cloudfront
 dmg-dd.oss-accelerate.aliyuncs.com
@@ -34,7 +31,6 @@ fpb1.apple886.com
 https-apple.com
 iadsdk.apple.com
 ib.snssdk.com
-img301.com
 jpaasne.e.shifen.com
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
@@ -48,7 +44,6 @@ shackapple.com
 stats.video.search.yahoo.com
 sub.powerapple.com
 theapple.site
-uu2e.com
 wzjs1.oss-accelerate.aliyuncs.com
 youtube.local
 ad.xy2013.cn
@@ -6731,6 +6726,7 @@ taozgpkjzpdtgr.com
 tapffdskgjr.com
 targetctracker.com
 tarteaucitron.ml
+tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tauwhout.net
@@ -8813,7 +8809,6 @@ zzxlukodff.com
 zzxosget.com
 519332da.rtc.youme.im
 gvod.aiseejapp.atianqi.com
-tat.pandora.xiaomi.com
 204.scloud.lfengmobile.com
 2mdnsys.com
 39d83s.com
@@ -60395,7 +60390,6 @@ opencloud.wostore.cn
 .data.mic.com
 .data.neuroxmedia.com
 .data.studybreakmedia.com
-.data.vod.itc.cn
 .data.waptime.cn
 .data2.doodlemobile.com
 .datafastguru.info
@@ -69390,6 +69384,7 @@ opencloud.wostore.cn
 .2226ka.com
 .225c34aba07.com
 .22773.com
+.22fssv.com
 .22qzhao5.cn
 .2334ea708ab6d79.com
 .233fb5b59351.com
@@ -69863,6 +69858,7 @@ opencloud.wostore.cn
 .88.yunqishi8.com
 .888games.com
 .888poker.com
+.888yh.xyz
 .88cpc.com
 .88hb7evabd.com
 .88hs.net
@@ -71270,6 +71266,7 @@ opencloud.wostore.cn
 .ailingtonwh.club
 .aima.weathercn.com
 .aimato.com
+.aimtxb.cn
 .ainedprospe.club
 .aintinuumdelos.com
 .aintyjarde.top
@@ -72189,6 +72186,7 @@ opencloud.wostore.cn
 .baixing.com
 .baizhu.cc
 .bajarlo.net
+.bakeryembedded.com
 .bakibarus.com
 .balancedingrent.com
 .balancer.devtodev.com
@@ -72414,6 +72412,7 @@ opencloud.wostore.cn
 .betrad.com.edgekey.net
 .betrayedgeoffrey.com
 .betrayedregretdeadline.com
+.bettermeter.com
 .betternoon.club
 .betuuvhozpylo.com
 .betway787.com
@@ -77968,6 +77967,7 @@ opencloud.wostore.cn
 .img2.pengfu.net
 .img2.user.kanimg.com
 .img3.g.pptv.com
+.img301.com
 .imglnka.com
 .imglnkb.com
 .imglnkc.com
@@ -78656,6 +78656,7 @@ opencloud.wostore.cn
 .jqcdn01.herokuapp.com
 .jqcdn03.herokuapp.com
 .jqcdn2.herokuapp.com
+.jqeyvtgelo.com
 .jqki.cn
 .jqlbzt.gear4music.no
 .jqlzwb.bauhaus.fi
@@ -78841,6 +78842,7 @@ opencloud.wostore.cn
 .kaptcha.com
 .karuna4u.com
 .kasa.m.biqubao.com
+.kasdwergv.com
 .katcqa.azeta.lv
 .kbirdsind.top
 .kbx1sth37s.com
@@ -81209,6 +81211,7 @@ opencloud.wostore.cn
 .miricommunity.net
 .mirrorpersonalinjury.co.uk
 .mirtesen.ru
+.misafnix.space
 .misc-xl9-ssl.xunlei.com
 .misc.in.duokanbox.com
 .misc.pandora.xiaomi.com
@@ -81248,6 +81251,7 @@ opencloud.wostore.cn
 .mjlpqbklxgt.com
 .mjlsiopjesbn.com
 .mjnzmb.jasmine.ua
+.mjrhficjcbf.com
 .mjt.lacoste.com
 .mjtowot.cn
 .mjvmypr.cn
@@ -81528,6 +81532,7 @@ opencloud.wostore.cn
 .mugrikees.com
 .muhaingi.com
 .muhttw.spotlightstores.com
+.mukjozy.cn
 .mulanphone.cn
 .mule.caddyserver.com
 .multi-cluster.directservices.it
@@ -82995,6 +83000,7 @@ opencloud.wostore.cn
 .peeticadd.com
 .peezette-intial.com
 .pegaumsi.com
+.peigbv.cn
 .peiliao-china.com
 .pelican.protomaps.com
 .pem.tamboys.pics
@@ -84587,6 +84593,7 @@ opencloud.wostore.cn
 .russianemasculateincident.com
 .russianlovematch.com
 .russionsdeath.fun
+.rusticswollenbelonged.com
 .rustleobtainedflute.com
 .rustyellow.com
 .ruth8badb.com
@@ -87518,6 +87525,7 @@ opencloud.wostore.cn
 .sxuunews.pro
 .sxxjdz.com
 .sxyunyou.cn
+.sxyzhdf.cn
 .sybhpi.cn
 .syblyj.com
 .sycbkk.sputnik8.com
@@ -88808,6 +88816,7 @@ opencloud.wostore.cn
 .uhqunq.tktimport.com
 .uhygtf1.com
 .ui.videojav.com
+.uibtxv.cn
 .uilsplentialde.top
 .uim.tifbs.net
 .uincalcularlyt.club
@@ -89018,6 +89027,7 @@ opencloud.wostore.cn
 .utteredhandicappedsomebody.com
 .utteroccupied.com
 .utubeconverter.com
+.uu2e.com
 .uu7ey6.cn
 .uuaajohul.com
 .uuaoz.com
@@ -89045,6 +89055,7 @@ opencloud.wostore.cn
 .uwxdru.hellovillam.com
 .uxernab.com
 .uxfpdo3hx5fi.com
+.uxngqd.cn
 .uxowypikexhz.com
 .uxrjdh.com
 .uxusheppared.club

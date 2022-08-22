@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-22 02:27:06
+# UPDATED: 2022-08-22 10:38:22
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 14155
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 73697
+# DOMAIN-SUFFIX: 73696
 # IP-CIDR: 241
 # URL-REGEX: 301
-# TOTAL: 88471
+# TOTAL: 88470
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -34299,7 +34299,6 @@ zzxosget.com
 .data.skistar1.test.cjmadobe.com
 .data.studybreakmedia.com
 .data.ubi.com
-.data.vod.itc.cn
 .data.volksfreund.de
 .data.waptime.cn
 .data.westlotto.de

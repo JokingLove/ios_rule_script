@@ -1,8 +1,8 @@
 ! Title: Advertising
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-08-22 02:27:09
-! Total: 87852
+! Updated: 2022-08-22 10:38:24
+! Total: 87851
 
 
 ||0.code.cotsta.ru^
@@ -54895,7 +54895,6 @@
 ||data.neuroxmedia.com^
 ||data.qq.com^
 ||data.studybreakmedia.com^
-||data.vod.itc.cn^
 ||data.waptime.cn^
 ||data.xici.net^
 ||data2.doodlemobile.com^

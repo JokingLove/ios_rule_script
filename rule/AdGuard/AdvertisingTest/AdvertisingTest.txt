@@ -1,13 +1,12 @@
 ! Title: AdvertisingTest
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-08-22 02:27:59
-! Total: 101904
+! Updated: 2022-08-22 10:39:02
+! Total: 101915
 
 
 ||46186911.vtt^
 ||80055404.vtt^
-||888yh.xyz^
 ||absurdapple.com^
 ||adfstat.yandex.ru^
 ||ads.yahoo.com^
@@ -20,10 +19,8 @@
 ||applequan.com^
 ||applescringe.com^
 ||awsync.yandex.ru^
-||bakeryembedded.com^
 ||beacon.search.yahoo.com^
 ||beap-bc.yahoo.com^
-||bettermeter.com^
 ||crypta.js^
 ||d1stxfv94hrhia.cloudfront^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
@@ -32,7 +29,6 @@
 ||https-apple.com^
 ||iadsdk.apple.com^
 ||ib.snssdk.com^
-||img301.com^
 ||jpaasne.e.shifen.com^
 ||log.strm.yandex.ru^
 ||marketingsolutions.yahoo.com^
@@ -46,7 +42,6 @@
 ||stats.video.search.yahoo.com^
 ||sub.powerapple.com^
 ||theapple.site^
-||uu2e.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||youtube.local^
 ||0.code.cotsta.ru^
@@ -52363,7 +52358,6 @@
 ||data.mic.com^
 ||data.neuroxmedia.com^
 ||data.studybreakmedia.com^
-||data.vod.itc.cn^
 ||data.waptime.cn^
 ||data2.doodlemobile.com^
 ||datafastguru.info^
@@ -64160,6 +64154,7 @@
 ||tarteaucitron.ml^
 ||tartoals.net^
 ||taryarguestio.info^
+||tat.pandora.xiaomi.com^
 ||tataget.ru^
 ||tatagou.com.cn^
 ||tatahn.com^
@@ -68405,7 +68400,6 @@
 ||zzzzz4.52896368.com^
 ||519332da.rtc.youme.im^
 ||gvod.aiseejapp.atianqi.com^
-||tat.pandora.xiaomi.com^
 ||00-gov.cn^
 ||0024aadd.com^
 ||0082tv.net^
@@ -68653,6 +68647,7 @@
 ||2226ka.com^
 ||225c34aba07.com^
 ||22773.com^
+||22fssv.com^
 ||22qzhao5.cn^
 ||2334ea708ab6d79.com^
 ||233fb5b59351.com^
@@ -69129,6 +69124,7 @@
 ||88.yunqishi8.com^
 ||888games.com^
 ||888poker.com^
+||888yh.xyz^
 ||88cpc.com^
 ||88hb7evabd.com^
 ||88hs.net^
@@ -70590,6 +70586,7 @@
 ||aima.weathercn.com^
 ||aimato.com^
 ||aimg.fc2.com^
+||aimtxb.cn^
 ||ainedprospe.club^
 ||aintinuumdelos.com^
 ||aintyjarde.top^
@@ -71585,6 +71582,7 @@
 ||baixing.com^
 ||baizhu.cc^
 ||bajarlo.net^
+||bakeryembedded.com^
 ||bakibarus.com^
 ||balancedingrent.com^
 ||balancer.devtodev.com^
@@ -71820,6 +71818,7 @@
 ||betrad.com.edgekey.net^
 ||betrayedgeoffrey.com^
 ||betrayedregretdeadline.com^
+||bettermeter.com^
 ||betternoon.club^
 ||betuuvhozpylo.com^
 ||betway787.com^
@@ -77545,6 +77544,7 @@
 ||img2.pengfu.net^
 ||img2.user.kanimg.com^
 ||img3.g.pptv.com^
+||img301.com^
 ||imglnka.com^
 ||imglnkb.com^
 ||imglnkc.com^
@@ -78246,6 +78246,7 @@
 ||jqcdn01.herokuapp.com^
 ||jqcdn03.herokuapp.com^
 ||jqcdn2.herokuapp.com^
+||jqeyvtgelo.com^
 ||jqki.cn^
 ||jqlbzt.gear4music.no^
 ||jqlzwb.bauhaus.fi^
@@ -78436,6 +78437,7 @@
 ||kaptcha.com^
 ||karuna4u.com^
 ||kasa.m.biqubao.com^
+||kasdwergv.com^
 ||katcqa.azeta.lv^
 ||kbirdsind.top^
 ||kbx1sth37s.com^
@@ -80846,6 +80848,7 @@
 ||miricommunity.net^
 ||mirrorpersonalinjury.co.uk^
 ||mirtesen.ru^
+||misafnix.space^
 ||misc-xl9-ssl.xunlei.com^
 ||misc.in.duokanbox.com^
 ||misc.pandora.xiaomi.com^
@@ -80885,6 +80888,7 @@
 ||mjlpqbklxgt.com^
 ||mjlsiopjesbn.com^
 ||mjnzmb.jasmine.ua^
+||mjrhficjcbf.com^
 ||mjt.lacoste.com^
 ||mjtowot.cn^
 ||mjvmypr.cn^
@@ -81189,6 +81193,7 @@
 ||mugrikees.com^
 ||muhaingi.com^
 ||muhttw.spotlightstores.com^
+||mukjozy.cn^
 ||mulanphone.cn^
 ||mule.caddyserver.com^
 ||multi-cluster.directservices.it^
@@ -82684,6 +82689,7 @@
 ||peeticadd.com^
 ||peezette-intial.com^
 ||pegaumsi.com^
+||peigbv.cn^
 ||peiliao-china.com^
 ||pelican.protomaps.com^
 ||pem.tamboys.pics^
@@ -84310,6 +84316,7 @@
 ||russianemasculateincident.com^
 ||russianlovematch.com^
 ||russionsdeath.fun^
+||rusticswollenbelonged.com^
 ||rustleobtainedflute.com^
 ||rustyellow.com^
 ||ruth8badb.com^
@@ -87324,6 +87331,7 @@
 ||sxuunews.pro^
 ||sxxjdz.com^
 ||sxyunyou.cn^
+||sxyzhdf.cn^
 ||sybhpi.cn^
 ||syblyj.com^
 ||sycbkk.sputnik8.com^
@@ -88704,6 +88712,7 @@
 ||uhqunq.tktimport.com^
 ||uhygtf1.com^
 ||ui.videojav.com^
+||uibtxv.cn^
 ||uilsplentialde.top^
 ||uim.tifbs.net^
 ||uincalcularlyt.club^
@@ -88929,6 +88938,7 @@
 ||utteredhandicappedsomebody.com^
 ||utteroccupied.com^
 ||utubeconverter.com^
+||uu2e.com^
 ||uu7ey6.cn^
 ||uuaajohul.com^
 ||uuaoz.com^
@@ -88956,6 +88966,7 @@
 ||uwxdru.hellovillam.com^
 ||uxernab.com^
 ||uxfpdo3hx5fi.com^
+||uxngqd.cn^
 ||uxowypikexhz.com^
 ||uxrjdh.com^
 ||uxusheppared.club^

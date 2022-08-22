@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-22 02:27:08
+# UPDATED: 2022-08-22 10:38:23
 # DOMAIN: 14155
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 73697
+# DOMAIN-SUFFIX: 73696
 # IP-CIDR: 241
-# TOTAL: 88170
+# TOTAL: 88169
 DOMAIN,ad.xy2013.cn
 DOMAIN,ads.play.cbsi.video
 DOMAIN,ads.reembed.com
@@ -66200,7 +66200,6 @@ DOMAIN-SUFFIX,data.haoma.sogou.com
 DOMAIN-SUFFIX,data.mic.com
 DOMAIN-SUFFIX,data.neuroxmedia.com
 DOMAIN-SUFFIX,data.studybreakmedia.com
-DOMAIN-SUFFIX,data.vod.itc.cn
 DOMAIN-SUFFIX,data.waptime.cn
 DOMAIN-SUFFIX,data2.doodlemobile.com
 DOMAIN-SUFFIX,datafastguru.info
