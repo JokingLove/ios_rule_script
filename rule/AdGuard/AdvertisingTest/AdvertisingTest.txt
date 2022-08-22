@@ -1,49 +1,108 @@
 ! Title: AdvertisingTest
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-08-22 10:39:02
-! Total: 101915
+! Updated: 2022-08-23 02:28:31
+! Total: 101953
 
 
+||06a2b66f11.com^
+||3p-geo.yahoo.com^
+||3p-udc.yahoo.com^
 ||46186911.vtt^
+||666769.xyz^
 ||80055404.vtt^
+||84a196ebc5.com^
 ||absurdapple.com^
+||adfox.yandex.ru^
 ||adfstat.yandex.ru^
 ||ads.yahoo.com^
 ||ads.youtube.com^
+||adsdk.yandex.ru^
+||aimpooft.com^
+||an.yandex.ru^
 ||anxiousapples.com^
 ||api.sec.miui.com^
 ||app.ssp.yahoo.com^
 ||appboy-images.com^
+||apple.www.letv.com^
 ||applebarq.com^
 ||applequan.com^
 ||applescringe.com^
+||ardslediana.com^
+||arzanphearse.com^
+||aspape.com^
+||awaps.yandex.ru^
 ||awsync.yandex.ru^
+||bats.video.yahoo.com^
 ||beacon.search.yahoo.com^
 ||beap-bc.yahoo.com^
+||bjjtrxbpincj.xyz^
+||blueknow.com^
+||bs.yandex.ru^
+||cer43asett2iu5m.com^
+||cerfoillycea.website^
+||challengecircuit.com^
+||collector2c.zhihuishu.com^
+||cookiex.ngd.yahoo.com^
 ||crypta.js^
 ||d1stxfv94hrhia.cloudfront^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
+||dongdong.world^
+||ea0e9526cf.com^
 ||efficientapplesimulator.com^
+||facyptythu.com^
+||fastdmr.com^
 ||fpb1.apple886.com^
+||ganon.yahoo.com^
+||geo.yahoo.com^
+||hcegdxb.cn^
+||hsuleekkg.com^
 ||https-apple.com^
 ||iadsdk.apple.com^
 ||ib.snssdk.com^
+||iltgkgiepf.com^
+||informer.yandex.ru^
+||izeiiemb.com^
+||jill.fc.yahoo.com^
 ||jpaasne.e.shifen.com^
+||kaisaimy.net^
+||krence.com^
+||log.haberturk.com^
 ||log.strm.yandex.ru^
 ||marketingsolutions.yahoo.com^
+||mc.yandex.ru^
 ||mediaappletree.com^
 ||meitaolianmeng.ltd^
 ||mm.n3w1d0ma1n^
 ||mo.vlpyj.xy^
+||nol.yahoo.com^
+||nonfattoplike.com^
+||obssiyjiachvh.xyz^
+||ogeyut.cn^
+||op7s.top^
+||otjedg.xyz^
+||poereawer.top^
+||pouneeso.com^
+||ppcpnvwskrdnev.com^
 ||pr.comet.yahoo.com^
+||pv.sohu.com^
 ||rrf.fat1domain1^
+||setsdowntown.com^
 ||shackapple.com^
+||sluiceliable.com^
 ||stats.video.search.yahoo.com^
 ||sub.powerapple.com^
+||sumnxwvr.ink^
+||supportmetrics.apple.com^
+||test.vast^
 ||theapple.site^
+||unkoygvvxunt.xyz^
+||vertelvnqxtgtu.com^
+||visit.webhosting.yahoo.com^
+||wctcudh.cn^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||youtube.local^
+||zlujomk.cn^
 ||0.code.cotsta.ru^
 ||0001.best^
 ||000123456789.online^
@@ -419,6 +478,7 @@
 ||228kbet.com^
 ||22c.in^
 ||22ei7q8l12.com^
+||22fssv.com^
 ||22pornz.site^
 ||22zalo.com^
 ||23205523023daea6.com^
@@ -1344,6 +1404,7 @@
 ||888casino.com^
 ||888media.net^
 ||888promos.com^
+||888yh.xyz^
 ||889433.com^
 ||889fb4992d4e8.com^
 ||88d7b6aa44fb8eb.com^
@@ -7112,6 +7173,7 @@
 ||bak0-store.com^
 ||bakbb.com^
 ||bakcgnxikkxw.com^
+||bakeryembedded.com^
 ||baking.ren^
 ||baklajansss.site^
 ||bakteso.ru^
@@ -7996,6 +8058,7 @@
 ||better-explorer.com^
 ||bettercollective.rocks^
 ||bettercontentservice.top^
+||bettermeter.com^
 ||bettermetrics.co^
 ||betterprovokesap.com^
 ||betting.betfair.com^
@@ -10562,6 +10625,7 @@
 ||ciwvkgthn.xyz^
 ||cixawobu.com^
 ||cixaxuyu.xyz^
+||cizion.com^
 ||cizykytha.com^
 ||cj.com^
 ||cj.madeleine.de^
@@ -21211,6 +21275,7 @@
 ||img.promoddl.com^
 ||img.servint.net^
 ||img.xnxx.com^
+||img301.com^
 ||imgapp.top^
 ||imgcdnbet.com^
 ||imgfeedget.com^
@@ -22639,6 +22704,7 @@
 ||jqad.vip^
 ||jqcgyjwidktu.xyz^
 ||jqdnvg.com^
+||jqeyvtgelo.com^
 ||jqk2me2mzf.ru^
 ||jquery-cdn.cc^
 ||jquery-cdn.download^
@@ -23059,6 +23125,7 @@
 ||kartables.fr^
 ||karteljackal.com^
 ||kartikeya-ram.com^
+||kasdwergv.com^
 ||kasheglesy.pro^
 ||kasumikarate.hanagasumi.net^
 ||kataprius.com^
@@ -26997,6 +27064,7 @@
 ||mjnakecyospspgf.com^
 ||mjnxku.com^
 ||mjonkers.nl^
+||mjrhficjcbf.com^
 ||mjrvkv5.com^
 ||mjsyqwpqnjbgua.com^
 ||mjxads.internet.com^
@@ -35138,6 +35206,7 @@
 ||russian-cuties.info^
 ||russian-sex.com^
 ||rustds.click^
+||rusticswollenbelonged.com^
 ||rustiz.ru^
 ||rustizer.com^
 ||rustoria-topnews.ru^
@@ -38687,6 +38756,7 @@
 ||sxtc.wang^
 ||sxtcdjy.com^
 ||sxxfmc.com^
+||sxyzhdf.cn^
 ||sxzchs.cn^
 ||sxzcrq.com^
 ||sxzx.live^
@@ -42090,6 +42160,7 @@
 ||utxdtismojqk.xyz^
 ||uu.domainforlite.com^
 ||uu1.3gu.com^
+||uu2e.com^
 ||uu99k.com^
 ||uuaauw.com^
 ||uuaoy.com^
@@ -64154,7 +64225,6 @@
 ||tarteaucitron.ml^
 ||tartoals.net^
 ||taryarguestio.info^
-||tat.pandora.xiaomi.com^
 ||tataget.ru^
 ||tatagou.com.cn^
 ||tatahn.com^
@@ -68400,6 +68470,7 @@
 ||zzzzz4.52896368.com^
 ||519332da.rtc.youme.im^
 ||gvod.aiseejapp.atianqi.com^
+||tat.pandora.xiaomi.com^
 ||00-gov.cn^
 ||0024aadd.com^
 ||0082tv.net^
@@ -68647,7 +68718,6 @@
 ||2226ka.com^
 ||225c34aba07.com^
 ||22773.com^
-||22fssv.com^
 ||22qzhao5.cn^
 ||2334ea708ab6d79.com^
 ||233fb5b59351.com^
@@ -69124,7 +69194,6 @@
 ||88.yunqishi8.com^
 ||888games.com^
 ||888poker.com^
-||888yh.xyz^
 ||88cpc.com^
 ||88hb7evabd.com^
 ||88hs.net^
@@ -71582,7 +71651,6 @@
 ||baixing.com^
 ||baizhu.cc^
 ||bajarlo.net^
-||bakeryembedded.com^
 ||bakibarus.com^
 ||balancedingrent.com^
 ||balancer.devtodev.com^
@@ -71818,7 +71886,6 @@
 ||betrad.com.edgekey.net^
 ||betrayedgeoffrey.com^
 ||betrayedregretdeadline.com^
-||bettermeter.com^
 ||betternoon.club^
 ||betuuvhozpylo.com^
 ||betway787.com^
@@ -72831,7 +72898,6 @@
 ||civiliargeord.club^
 ||civilizefrailoffhand.com^
 ||civralowjoifjy.com^
-||cizion.com^
 ||cjbdme.conquer.org^
 ||cjejjz.thelasthunt.com^
 ||cjie.baidu.com^
@@ -77544,7 +77610,6 @@
 ||img2.pengfu.net^
 ||img2.user.kanimg.com^
 ||img3.g.pptv.com^
-||img301.com^
 ||imglnka.com^
 ||imglnkb.com^
 ||imglnkc.com^
@@ -78246,7 +78311,6 @@
 ||jqcdn01.herokuapp.com^
 ||jqcdn03.herokuapp.com^
 ||jqcdn2.herokuapp.com^
-||jqeyvtgelo.com^
 ||jqki.cn^
 ||jqlbzt.gear4music.no^
 ||jqlzwb.bauhaus.fi^
@@ -78437,7 +78501,6 @@
 ||kaptcha.com^
 ||karuna4u.com^
 ||kasa.m.biqubao.com^
-||kasdwergv.com^
 ||katcqa.azeta.lv^
 ||kbirdsind.top^
 ||kbx1sth37s.com^
@@ -80888,7 +80951,6 @@
 ||mjlpqbklxgt.com^
 ||mjlsiopjesbn.com^
 ||mjnzmb.jasmine.ua^
-||mjrhficjcbf.com^
 ||mjt.lacoste.com^
 ||mjtowot.cn^
 ||mjvmypr.cn^
@@ -84316,7 +84378,6 @@
 ||russianemasculateincident.com^
 ||russianlovematch.com^
 ||russionsdeath.fun^
-||rusticswollenbelonged.com^
 ||rustleobtainedflute.com^
 ||rustyellow.com^
 ||ruth8badb.com^
@@ -87331,7 +87392,6 @@
 ||sxuunews.pro^
 ||sxxjdz.com^
 ||sxyunyou.cn^
-||sxyzhdf.cn^
 ||sybhpi.cn^
 ||syblyj.com^
 ||sycbkk.sputnik8.com^
@@ -88938,7 +88998,6 @@
 ||utteredhandicappedsomebody.com^
 ||utteroccupied.com^
 ||utubeconverter.com^
-||uu2e.com^
 ||uu7ey6.cn^
 ||uuaajohul.com^
 ||uuaoz.com^
@@ -90857,34 +90916,16 @@
 ||zzwpsm.cn^
 ||zzyanhushi.com^
 ||zzz.pissrip.net^
-||3p-geo.yahoo.com^
-||3p-udc.yahoo.com^
 ||ad.kddi-fs.com^
-||adfox.yandex.ru^
-||adsdk.yandex.ru^
 ||amethyst.zappos.com^
-||an.yandex.ru^
-||apple.www.letv.com^
-||awaps.yandex.ru^
-||bats.video.yahoo.com^
-||bs.yandex.ru^
-||collector2c.zhihuishu.com^
-||cookiex.ngd.yahoo.com^
-||ganon.yahoo.com^
-||geo.yahoo.com^
 ||gotie.tunein.com^
-||informer.yandex.ru^
-||jill.fc.yahoo.com^
 ||log.kuwo.cn^
-||mc.yandex.ru^
 ||metrics.apple.com^
 ||metrics.cvs.com^
 ||metrics.tbs.com^
 ||microlearning.att.com^
-||nol.yahoo.com^
 ||ohm-dot-hackster-io.appspot.com^
 ||pages.att.com^
-||pv.sohu.com^
 ||pxl.indeed.com^
 ||qm.redbull.com^
 ||reports.tunein.com^
@@ -90894,10 +90935,7 @@
 ||ssp.rambler.ru^
 ||sstats.fintro.be9.kohls.com^
 ||sugar.zhihu.com^
-||supportmetrics.apple.com^
-||test.vast^
 ||tgt.maep.ibm.com^
-||visit.webhosting.yahoo.com^
 ||zxvttq.goldapple.ru^
 ||17gouwuba.com^
 ||186078.com^

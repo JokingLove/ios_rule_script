@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-22 10:38:22
+# UPDATED: 2022-08-23 02:27:51
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 14155
+# DOMAIN: 14154
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 73696
+# DOMAIN-SUFFIX: 73707
 # IP-CIDR: 241
 # URL-REGEX: 301
-# TOTAL: 88470
+# TOTAL: 88480
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -2345,7 +2345,6 @@ ciusqhujddbggb.com
 civyssfaqtufib.com
 ciwbezny.com
 cizemeshbbc.com
-cizion.com
 cjdomdjyvble.com
 cjie.baidu.com
 cjiv.chengjie168.com.cn
@@ -14881,6 +14880,7 @@ zzxosget.com
 .228pu.cn
 .22c.in
 .22ei7q8l12.com
+.22fssv.com
 .22lm.cc
 .22pornz.site
 .22zalo.com
@@ -16340,6 +16340,7 @@ zzxosget.com
 .888casino.com
 .888media.net
 .888promos.com
+.888yh.xyz
 .888zr022.com
 .889433.com
 .889fb4992d4e8.com
@@ -25557,6 +25558,7 @@ zzxosget.com
 .bakbb.com
 .bakcgnxikkxw.com
 .bakercommunications.actonservice.com
+.bakeryembedded.com
 .baking.ren
 .baklajansss.site
 .bakteso.ru
@@ -26761,6 +26763,7 @@ zzxosget.com
 .better-explorer.com
 .bettercollective.rocks
 .bettercontentservice.top
+.bettermeter.com
 .bettermetrics.co
 .betterprovokesap.com
 .betterzip.net
@@ -30346,6 +30349,7 @@ zzxosget.com
 .cixaxuyu.xyz
 .ciyacton.ciy.com
 .ciyitan.com
+.cizion.com
 .cizykytha.com
 .cj-cy.com
 .cj.com
@@ -46353,6 +46357,7 @@ zzxosget.com
 .img3.126.net
 .img3.fy1g.com
 .img3.km.com
+.img301.com
 .img50.pingguolv.com
 .img6.126.net
 .img752.de92.com
@@ -48657,6 +48662,7 @@ zzxosget.com
 .jqad.vip
 .jqcgyjwidktu.xyz
 .jqdnvg.com
+.jqeyvtgelo.com
 .jqk2me2mzf.ru
 .jqk72ugyl2pz.com
 .jqmt.qq.com
@@ -49300,6 +49306,7 @@ zzxosget.com
 .kartables.fr
 .karteljackal.com
 .kartikeya-ram.com
+.kasdwergv.com
 .kasheglesy.pro
 .kasumikarate.hanagasumi.net
 .kataprius.com
@@ -52068,7 +52075,6 @@ zzxosget.com
 .log.ca.gov.vn
 .log.china.cn
 .log.cinematoday.jp
-.log.cizion.com
 .log.cloud.sbs.co.kr
 .log.codemarketing.cloud
 .log.cognex.com
@@ -55775,6 +55781,7 @@ zzxosget.com
 .mjnpya.marktplaats.nl
 .mjnxku.com
 .mjonkers.nl
+.mjrhficjcbf.com
 .mjrvkv5.com
 .mjs.csyymp4.com
 .mjsnvi.extraspace.com
@@ -67039,6 +67046,7 @@ zzxosget.com
 .russian-sex.com
 .rustds.click
 .rusticprice.com
+.rusticswollenbelonged.com
 .rustiz.ru
 .rustizer.com
 .rustoria-topnews.ru
@@ -74220,6 +74228,7 @@ zzxosget.com
 .sxybjjz.cn
 .sxying.top
 .sxympy.com
+.sxyzhdf.cn
 .sxz67.com
 .sxzchs.cn
 .sxzcrq.com
@@ -80289,6 +80298,7 @@ zzxosget.com
 .uu.zeverdg.com
 .uu0152q.cn
 .uu1.3gu.com
+.uu2e.com
 .uu99k.com
 .uuaauw.com
 .uuaoy.com

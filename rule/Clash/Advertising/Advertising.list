@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-22 10:38:23
-# DOMAIN: 14155
+# UPDATED: 2022-08-23 02:27:52
+# DOMAIN: 14154
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 73696
+# DOMAIN-SUFFIX: 73707
 # IP-CIDR: 241
-# TOTAL: 88169
+# TOTAL: 88179
 DOMAIN,ad.xy2013.cn
 DOMAIN,ads.play.cbsi.video
 DOMAIN,ads.reembed.com
@@ -2349,7 +2349,6 @@ DOMAIN,ciusqhujddbggb.com
 DOMAIN,civyssfaqtufib.com
 DOMAIN,ciwbezny.com
 DOMAIN,cizemeshbbc.com
-DOMAIN,cizion.com
 DOMAIN,cjdomdjyvble.com
 DOMAIN,cjie.baidu.com
 DOMAIN,cjiv.chengjie168.com.cn
@@ -14539,6 +14538,7 @@ DOMAIN-SUFFIX,2276bf7413.com
 DOMAIN-SUFFIX,228kbet.com
 DOMAIN-SUFFIX,22c.in
 DOMAIN-SUFFIX,22ei7q8l12.com
+DOMAIN-SUFFIX,22fssv.com
 DOMAIN-SUFFIX,22pornz.site
 DOMAIN-SUFFIX,22zalo.com
 DOMAIN-SUFFIX,23205523023daea6.com
@@ -15467,6 +15467,7 @@ DOMAIN-SUFFIX,888b.in
 DOMAIN-SUFFIX,888casino.com
 DOMAIN-SUFFIX,888media.net
 DOMAIN-SUFFIX,888promos.com
+DOMAIN-SUFFIX,888yh.xyz
 DOMAIN-SUFFIX,889433.com
 DOMAIN-SUFFIX,889fb4992d4e8.com
 DOMAIN-SUFFIX,88d7b6aa44fb8eb.com
@@ -21525,6 +21526,7 @@ DOMAIN-SUFFIX,bak-home.com
 DOMAIN-SUFFIX,bak0-store.com
 DOMAIN-SUFFIX,bakbb.com
 DOMAIN-SUFFIX,bakcgnxikkxw.com
+DOMAIN-SUFFIX,bakeryembedded.com
 DOMAIN-SUFFIX,baking.ren
 DOMAIN-SUFFIX,baklajansss.site
 DOMAIN-SUFFIX,bakteso.ru
@@ -22419,6 +22421,7 @@ DOMAIN-SUFFIX,better-better.com.cn
 DOMAIN-SUFFIX,better-explorer.com
 DOMAIN-SUFFIX,bettercollective.rocks
 DOMAIN-SUFFIX,bettercontentservice.top
+DOMAIN-SUFFIX,bettermeter.com
 DOMAIN-SUFFIX,bettermetrics.co
 DOMAIN-SUFFIX,betterprovokesap.com
 DOMAIN-SUFFIX,betting.betfair.com
@@ -25040,6 +25043,7 @@ DOMAIN-SUFFIX,ciwigevy.com
 DOMAIN-SUFFIX,ciwvkgthn.xyz
 DOMAIN-SUFFIX,cixawobu.com
 DOMAIN-SUFFIX,cixaxuyu.xyz
+DOMAIN-SUFFIX,cizion.com
 DOMAIN-SUFFIX,cizykytha.com
 DOMAIN-SUFFIX,cj.com
 DOMAIN-SUFFIX,cj.madeleine.de
@@ -35815,6 +35819,7 @@ DOMAIN-SUFFIX,img.servint.net
 DOMAIN-SUFFIX,img.xnxx.com
 DOMAIN-SUFFIX,img1458.r.worldssl.net
 DOMAIN-SUFFIX,img1461.r.worldssl.net
+DOMAIN-SUFFIX,img301.com
 DOMAIN-SUFFIX,imgapp.top
 DOMAIN-SUFFIX,imgcdnbet.com
 DOMAIN-SUFFIX,imgfeedget.com
@@ -37260,6 +37265,7 @@ DOMAIN-SUFFIX,jpzwomhbxoalxu.com
 DOMAIN-SUFFIX,jqad.vip
 DOMAIN-SUFFIX,jqcgyjwidktu.xyz
 DOMAIN-SUFFIX,jqdnvg.com
+DOMAIN-SUFFIX,jqeyvtgelo.com
 DOMAIN-SUFFIX,jqk2me2mzf.ru
 DOMAIN-SUFFIX,jquery-cdn.cc
 DOMAIN-SUFFIX,jquery-cdn.download
@@ -37683,6 +37689,7 @@ DOMAIN-SUFFIX,karonty.com
 DOMAIN-SUFFIX,kartables.fr
 DOMAIN-SUFFIX,karteljackal.com
 DOMAIN-SUFFIX,kartikeya-ram.com
+DOMAIN-SUFFIX,kasdwergv.com
 DOMAIN-SUFFIX,kasheglesy.pro
 DOMAIN-SUFFIX,kasumikarate.hanagasumi.net
 DOMAIN-SUFFIX,kataprius.com
@@ -41650,6 +41657,7 @@ DOMAIN-SUFFIX,mjlunalaw.com
 DOMAIN-SUFFIX,mjnakecyospspgf.com
 DOMAIN-SUFFIX,mjnxku.com
 DOMAIN-SUFFIX,mjonkers.nl
+DOMAIN-SUFFIX,mjrhficjcbf.com
 DOMAIN-SUFFIX,mjrvkv5.com
 DOMAIN-SUFFIX,mjsyqwpqnjbgua.com
 DOMAIN-SUFFIX,mjxads.internet.com
@@ -49885,6 +49893,7 @@ DOMAIN-SUFFIX,ruslx.top
 DOMAIN-SUFFIX,russian-cuties.info
 DOMAIN-SUFFIX,russian-sex.com
 DOMAIN-SUFFIX,rustds.click
+DOMAIN-SUFFIX,rusticswollenbelonged.com
 DOMAIN-SUFFIX,rustiz.ru
 DOMAIN-SUFFIX,rustizer.com
 DOMAIN-SUFFIX,rustoria-topnews.ru
@@ -53474,6 +53483,7 @@ DOMAIN-SUFFIX,sxswjkgs.com
 DOMAIN-SUFFIX,sxtc.wang
 DOMAIN-SUFFIX,sxtcdjy.com
 DOMAIN-SUFFIX,sxxfmc.com
+DOMAIN-SUFFIX,sxyzhdf.cn
 DOMAIN-SUFFIX,sxzchs.cn
 DOMAIN-SUFFIX,sxzcrq.com
 DOMAIN-SUFFIX,sxzx.live
@@ -57134,6 +57144,7 @@ DOMAIN-SUFFIX,utuypsohjvuf.com
 DOMAIN-SUFFIX,utxdtismojqk.xyz
 DOMAIN-SUFFIX,uu.domainforlite.com
 DOMAIN-SUFFIX,uu1.3gu.com
+DOMAIN-SUFFIX,uu2e.com
 DOMAIN-SUFFIX,uu99k.com
 DOMAIN-SUFFIX,uuaauw.com
 DOMAIN-SUFFIX,uuaoy.com
@@ -80481,7 +80492,6 @@ DOMAIN-SUFFIX,log.51cto.com
 DOMAIN-SUFFIX,log.aliyuncs.com
 DOMAIN-SUFFIX,log.bitauto.com
 DOMAIN-SUFFIX,log.china.cn
-DOMAIN-SUFFIX,log.cizion.com
 DOMAIN-SUFFIX,log.codemarketing.cloud
 DOMAIN-SUFFIX,log.cognex.com
 DOMAIN-SUFFIX,log.cpex.cz

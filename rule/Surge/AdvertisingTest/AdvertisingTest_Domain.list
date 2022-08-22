@@ -1,20 +1,21 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-22 10:38:59
+# UPDATED: 2022-08-23 02:28:28
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 9530
+# DOMAIN: 9568
 # DOMAIN-KEYWORD: 263
 # DOMAIN-SUFFIX: 92394
 # IP-CIDR: 242
 # URL-REGEX: 301
-# TOTAL: 102731
+# TOTAL: 102769
 0026645142c89aeb1.com
 017e689c749.com
 0374adc8c6a6a56.com
 04426f8b7ce9b069431.com
 05f4e2756f290.com
+06a2b66f11.com
 07346e971b1ec7f.com
 073c0cec65916314a.com
 0756j.com
@@ -169,6 +170,7 @@
 65c6.playfabapi.com
 65e750617ae8f0421.com
 65h79.cn
+666769.xyz
 67126e4413a.com
 67785az.com
 6868bbe42af8e518.com
@@ -217,6 +219,7 @@
 832698.xyz
 83a26bd3df29eb57.com
 8467d2688e4a4.com
+84a196ebc5.com
 8503a4170f10a9d.com
 86240336d5604d7.com
 863iw40s.com
@@ -559,6 +562,7 @@ aileenvideos.pro
 aima.shouhome.com
 aimaptair.club
 aimg.fc2.com
+aimpooft.com
 aio.media
 aioemfxj.com
 aiokvzsq.com
@@ -764,6 +768,7 @@ arasyqslwmfat.com
 arbawijlgq.com
 arcartall.club
 arcaukalb.site
+ardslediana.com
 are-ter.com
 areasins.com
 ares.agoop.net
@@ -787,6 +792,7 @@ artcamcat.site
 arti-mediagroup.com
 artqpnah.com
 artsconsortium.org
+arzanphearse.com
 arzcwgdzsed.com
 asadzntx.com
 asdkd.tutuapp.com
@@ -797,6 +803,7 @@ ashchiasp.club
 asiinbyu.com
 aspampbrr.online
 aspanyarc.club
+aspape.com
 aspxbwteth.com
 asqpniwvxea.com
 assampant.club
@@ -1057,6 +1064,7 @@ bjcpcnhssg.com
 bjcvibh.com
 bjdthyywcargba.com
 bjjingda.com
+bjjtrxbpincj.xyz
 bjkejdex.com
 bjlrdxcjnyxuba.com
 bjofqnbtokzz.com
@@ -1087,6 +1095,7 @@ blogad.com.tw
 blogohertz.com
 blqgnbxva.com
 blueioabj.com
+blueknow.com
 bluposr.com
 blwgtqakqaxemz.com
 bmanpn.com
@@ -1354,6 +1363,8 @@ centlysheerf.info
 centralwestwater.com.au
 ceoillwdcc.com
 ceprovidingsesse.info
+cer43asett2iu5m.com
+cerfoillycea.website
 cerotop.com
 ceskarepublika.net
 cevwkduhwbuc.com
@@ -1391,6 +1402,7 @@ cguru.ga
 cguvvvdxa.com
 cgwhbzfxhwltpm.com
 chaimeks.com
+challengecircuit.com
 changmaoxinjzo.com
 charanchedope.info
 charles.huqindustries.co.uk
@@ -1912,6 +1924,7 @@ dohillright.com
 dojmlztmbrvp.com
 doksfyhdtqmipa.com
 doktester.orgfree.com
+dongdong.world
 donhyxngg.com
 doogleonduty.com
 doqapnez.com
@@ -2151,6 +2164,7 @@ e7is2u38.top
 e8dcdcd1ddcb352b.com
 e960e146d9b5ca.com
 e9mlrvy1.com
+ea0e9526cf.com
 ea3721.com
 eabyvnmt.com
 eae33bbaf48.com
@@ -2487,6 +2501,7 @@ faayojxf.com
 fabolele.com
 fabrtgzehf.com
 facebookicon.net
+facyptythu.com
 fadeatrighlet.com
 fadsats.com
 fadsecz.com
@@ -2506,6 +2521,7 @@ fardan.pw
 farvqaxaoid.com
 fast.accesstrade.com.vn
 fast.eager.io
+fastdmr.com
 fasvgvzxsqxqhu.com
 fatrjjcm.com
 fatrvclgpnb.com
@@ -3167,6 +3183,7 @@ hbkajyvrus.com
 hbnqcbfgsjfa.com
 hbsimg.com
 hcatboilyxs.com
+hcegdxb.cn
 hceykfajyioqkz.com
 hcgtkmes.com
 hcrwnoaqe.com
@@ -3339,6 +3356,7 @@ hsnoamgzlksidfliivb.com
 hsqbeznk.com
 hsqujerwg.com
 hst-19-33.splius.lt
+hsuleekkg.com
 hsxftwpltcmil.com
 hsydzoapohcvbz.com
 htckiummbyxfha.com
@@ -3503,6 +3521,7 @@ ilkphyyzg.com
 ilmijlktgjx.com
 ilstsympathsguitary.info
 ilsuuqcab.com
+iltgkgiepf.com
 ilxwlsnzhzukj.com
 ilzjjdujrgaa.com
 ilzwenpgf.com
@@ -3721,6 +3740,7 @@ iylndfmf.com
 izavihllfvej.com
 izbxxwogfufnfi.com
 izeads.com
+izeiiemb.com
 izfaiqnxxts.com
 izgxbakxatp.com
 izjguvanm.com
@@ -4027,6 +4047,7 @@ k1qa.midasplayer.com
 ka04b.com
 kadirzerey.com
 kadman.net
+kaisaimy.net
 kajnvrmlftojxu.com
 kaktokualscgea.com
 kakyomloctqiu.com
@@ -4183,6 +4204,7 @@ kr3vinsx.com
 kraruzatefci.com
 krboeyeq.com
 krdvzahyr.com
+krence.com
 krfbhbhal.com
 krjleggwikuil.com
 krsccftmf.com
@@ -4448,6 +4470,7 @@ loft2126.dedicatedpanel.com
 log.appchina.com
 log.byteoversea.com.edgekey.net
 log.fotoable.com
+log.haberturk.com
 log.kgrid.co.kr
 log.kuwo.cn
 log.strm.yandex.ru
@@ -5369,6 +5392,7 @@ noclick.connexity.com
 nojbconvtg.com
 nol.yahoo.com
 nolpjfsu.com
+nonfattoplike.com
 nonpaly.ru
 noobgirls.com
 noosaphy.net
@@ -5512,6 +5536,7 @@ obhlfwnatj.com
 obkom.net.ua
 obmokhi.info
 obrayxknu.com
+obssiyjiachvh.xyz
 obthqxbm.com
 obufquwiwy.com
 obuuyneuhfwf.com
@@ -5567,6 +5592,7 @@ ofwuwfgq.com
 ofzoxqcldl.com
 ogdzyxly.com
 ogeemolt.net
+ogeyut.cn
 ogisrmbhajhyam.com
 ogluyourrvv.com
 ogmtiwxrm.com
@@ -5666,6 +5692,7 @@ oounzfsyxiuj.com
 oovvuu.com
 ooyhetoodapmrjvffzpmjdqubnpevefsofghrfsvixxcbwtmrj.com
 oozrsmpieq.com
+op7s.top
 opap.co.kr
 opcyvbwkbiaqyt.com
 opdefmkoeuoumo.com
@@ -5733,6 +5760,7 @@ otcxzgcu.com
 otfquqgqvsjof.com
 othere.info
 otiqknmqyibci.com
+otjedg.xyz
 otkpegjvpyi.com
 otmonog.info
 otmyoesv.com
@@ -6016,6 +6044,7 @@ poblemi.info
 podbwdcrmjufmr.com
 podimxqmqguj.com
 podzemi.myotis.info
+poereawer.top
 pogdlwpmck.com
 pokachi.net
 polawrg.com
@@ -6042,6 +6071,7 @@ postrsyk.com
 poterrupte.co
 potterpetrey.com
 potvaporizer.com
+pouneeso.com
 povbdf.cn
 povoq.info
 powerclear.lionmobi.com
@@ -6053,6 +6083,7 @@ poxcldtepiulo.com
 poxzyu.com
 poyecjzk.com
 ppbvmesssyacij.com
+ppcpnvwskrdnev.com
 ppfjlk1.5tps.vip
 ppfpocea.com
 pphyjqna.com
@@ -6931,6 +6962,7 @@ seszopvxktsfn.com
 sethads.info
 setlotnay.club
 setrtcjfhreqg.com
+setsdowntown.com
 settings-win.data.microsoft.com
 settleships.com
 sevootie.com
@@ -7044,6 +7076,7 @@ sletqnksol.com
 slfjsqnmp.com
 slgynezaygkjqi.com
 slightlyoffcenter.net
+sluiceliable.com
 slvcwiabpgyxa.com
 sm.pcmag.com
 smapohsnoww.com
@@ -7225,6 +7258,7 @@ sugar.zhihu.com
 sugqlryshxarn.com
 sulxddttj.com
 sumizxwhfsrke.com
+sumnxwvr.ink
 sumsmoxssy.com
 sunlux.net
 sunmcre.com
@@ -7818,6 +7852,7 @@ unikmmqybjy.com
 union.m.jd.com
 unitex.home.pl
 unjqjnzvzyrtw.com
+unkoygvvxunt.xyz
 unkrokwhwn.com
 unlim-app.tk
 unmhxfutdmxcdw.com
@@ -8045,6 +8080,7 @@ veodxsimctsgs.com
 veoujrnenng.com
 verizon.asapp.com
 vernoblisk.com
+vertelvnqxtgtu.com
 vestlitt.online
 vette-porno.nl
 veuzlkpnbujf.com
@@ -8313,6 +8349,7 @@ wcgrrjyjiaeocd.com
 wclkmumbolsmqd.com
 wclurprkyk.com
 wcobqyeqpckkzh.com
+wctcudh.cn
 wcwcypfnvih.com
 wcwdjojsxbbl.com
 wcyqoiyohhav.com
@@ -9400,6 +9437,7 @@ zlkrsqad.com
 zllanqoglad.com
 zlluzejac.com
 zlmbspplqvftur.com
+zlujomk.cn
 zlxfpawyyoq.com
 zly.dlhxgg.com
 zmasxytjskg.com
