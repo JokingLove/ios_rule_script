@@ -1,12 +1,12 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-08-23 02:30:20
+# UPDATED: 2022-08-24 02:30:08
 # DOMAIN: 81
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 68814
+# DOMAIN-SUFFIX: 68839
 # USER-AGENT: 65
-# TOTAL: 68974
+# TOTAL: 68999
 265.com
 adservice.google.com
 analytics.strava.com
@@ -9660,6 +9660,8 @@ www4-static.gog-statics.com
 .atop.fun
 .atstudy.com
 .attakids.com
+.attendees.cn
+.attendees.link
 .attri.mobi
 .attyou.com
 .atuoyi.com
@@ -11402,6 +11404,8 @@ www4-static.gog-statics.com
 .bisenet.com
 .bishe1234.com
 .bishen.ink
+.bisheng.cn
+.bishengcompiler.cn
 .bishengoffice.com
 .bisheziliao.com
 .bishijie.com
@@ -13637,7 +13641,9 @@ www4-static.gog-statics.com
 .cdnhwc3.com
 .cdnhwc5.cn
 .cdnhwc5.com
+.cdnhwc6.cn
 .cdnhwc6.com
+.cdnhwc7.cn
 .cdnhwc7.com
 .cdnhwchcg02.com
 .cdnhwcibv122.com
@@ -18773,6 +18779,7 @@ www4-static.gog-statics.com
 .dcetax.com
 .dcgsi.com
 .dcharm.com
+.dcia.org.cn
 .dcic-china.com
 .dcits.com
 .dcjianghu.com
@@ -25219,6 +25226,7 @@ www4-static.gog-statics.com
 .gneec3.com
 .gneec4.com
 .gneec5.com
+.gneec7.com
 .gneeccloud.com
 .gnehr.com
 .gnetis.com
@@ -27985,6 +27993,9 @@ www4-static.gog-statics.com
 .hi2000.net
 .hiagr.com
 .hiapk.com
+.hiascend.cn
+.hiascend.com
+.hiascend.net
 .hiavr.com
 .hibea.com
 .hibixin.com
@@ -28069,6 +28080,7 @@ www4-static.gog-statics.com
 .hikparking.com
 .hikrobotics.com
 .hikstor.com
+.hikunpeng.com
 .hikvision-jl.com
 .hikvision.com
 .hikyun.com
@@ -29310,16 +29322,20 @@ www4-static.gog-statics.com
 .huawangzhixun.com
 .huawanyun.com
 .huawei-3com.com
+.huawei.cn
 .huawei.com
 .huawei.com.cn
 .huaweiacad.com
 .huaweiapi.com
+.huaweicloud-dns.cn
 .huaweicloud-dns.com
 .huaweicloud-dns.net
 .huaweicloud-dns.org
 .huaweicloud.cn
 .huaweicloud.com
+.huaweicloudapis.cn
 .huaweicloudapis.com
+.huaweicloudlive.com
 .huaweicloudsite.cn
 .huaweicloudsite.com
 .huaweicloudwaf.cn
@@ -29340,12 +29356,14 @@ www4-static.gog-statics.com
 .huaweirtc.com
 .huaweisafedns.cn
 .huaweisafedns.com
+.huaweisafehub.cn
 .huaweishop.net
 .huaweisre.cn
 .huaweisre.com
 .huaweistatic.com
 .huaweisymantec.com
 .huaweiuniversity.com
+.huaweiyun.cn
 .huaweiyun.com
 .huaweizdl.com
 .huawenfanyi.com
@@ -29868,6 +29886,7 @@ www4-static.gog-statics.com
 .hwccpc.cn
 .hwccpc.com
 .hwcloudlive.com
+.hwclouds-dns.cn
 .hwclouds-dns.com
 .hwclouds-dns.net
 .hwclouds.cn
@@ -29881,6 +29900,8 @@ www4-static.gog-statics.com
 .hwcloudsite.cn
 .hwcloudsite.com
 .hwcloudtest.cn
+.hwcloudvis.cn
+.hwcloudvis.com
 .hwcrazy.com
 .hwehs.com
 .hweimall.com
@@ -31307,6 +31328,8 @@ www4-static.gog-statics.com
 .imblog.in
 .imbtk.com
 .imbusy.me
+.imc-oneaccess.cn
+.imcapptest.com
 .imcaviare.com
 .imcec.org
 .imcn.me
@@ -41616,6 +41639,7 @@ www4-static.gog-statics.com
 .msecnd.net
 .msfpay.com
 .msfxt.com
+.msg5.cn
 .msgcarry.com
 .msgtjj.com
 .mshandong.com
@@ -41992,6 +42016,7 @@ www4-static.gog-statics.com
 .myhuilv.com
 .myhwcdn.cn
 .myhwcdn.com
+.myhwcloudlive.com
 .myhwclouds.cn
 .myhwclouds.com
 .myhwclouds.com.cn

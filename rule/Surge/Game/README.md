@@ -15,17 +15,17 @@
 
 ## 规则统计
 
-最后更新时间：2022-08-22 02:28:05
+最后更新时间：2022-08-24 02:28:26
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 4  | 
 | DOMAIN-KEYWORD | 4  | 
-| DOMAIN-SUFFIX | 506  | 
+| DOMAIN-SUFFIX | 507  | 
 | IP-CIDR | 45  | 
 | PROTOCOL | 1  | 
-| TOTAL | 560  | 
+| TOTAL | 561  | 
 
 
 ## Surge 
